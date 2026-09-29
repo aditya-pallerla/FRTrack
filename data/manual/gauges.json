@@ -1,0 +1,16 @@
+{
+  "_note": "Hand-maintained. Reference levels must carry a citation; levels_verified stays false until one is added. The location is taken from OpenStreetMap at build time (osm_name_match).",
+  "gauges": [
+    {
+      "id": "G-RAJARAM",
+      "name": "Rajaram weir (Panchganga), Kolhapur",
+      "river": "Panchganga",
+      "osm_name_match": "Rajaram",
+      "unit": "ft",
+      "warning_level": 39,
+      "danger_level": 43,
+      "levels_source": "Warning/danger levels commonly quoted by Kolhapur district administration in flood coverage — citation pending",
+      "levels_verified": false
+    }
+  ]
+}

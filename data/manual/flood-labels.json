@@ -1,0 +1,8 @@
+{
+  "_note": "Documented flood periods for Kolhapur district used as WEAK, EVENT-LEVEL labels in eval:warnings. Only widely recorded major floods are listed; smaller floods are NOT labelled, so every other day counts as 'no flood' — this inflates the measured false-alert rate. Dates are approximate and must be checked against official records before any claim is made.",
+  "label_type": "weak event-level labels (major documented floods only; approximate dates)",
+  "events": [
+    { "id": "kop-2019-08", "name": "Kolhapur floods, August 2019", "start": "2019-08-04", "end": "2019-08-12", "precision": "approximate — verify against district disaster management records" },
+    { "id": "kop-2021-07", "name": "Kolhapur floods, July 2021", "start": "2021-07-22", "end": "2021-07-27", "precision": "approximate — verify against district disaster management records" }
+  ]
+}
