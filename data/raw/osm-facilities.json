@@ -1,0 +1,4123 @@
+{
+ "meta": {
+  "fetched_at": "2026-09-29T07:06:08.264Z",
+  "source": "OpenStreetMap via Overpass API",
+  "url": "https://overpass-api.de/api/interpreter",
+  "licence": "© OpenStreetMap contributors, ODbL 1.0",
+  "query": "[out:json][timeout:300];\nrel(1997163)->.district;\n.district map_to_area->.kop;\nnwr(area.kop)[\"amenity\"~\"^(fire_station|police|hospital)$\"];\nout center tags;"
+ },
+ "elements": [
+  {
+   "type": "node",
+   "id": 1279911907,
+   "lat": 16.7168057,
+   "lon": 74.2411131,
+   "tags": {
+    "amenity": "hospital"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1375555224,
+   "lat": 16.6945019,
+   "lon": 74.2235288,
+   "tags": {
+    "amenity": "police",
+    "name": "Juna Rajawada Police Station"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1625538129,
+   "lat": 16.6906209,
+   "lon": 74.2301501,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Mangalwar Peth, Kolhapur",
+    "addr:postcode": "416012",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Aadhar Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1625538147,
+   "lat": 16.6897011,
+   "lon": 74.2302252,
+   "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr.Garad Ayurvedic",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4298510209,
+   "lat": 16.7034691,
+   "lon": 74.2392729,
+   "tags": {
+    "amenity": "police",
+    "name": "Shahupuri Police Station"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4583539394,
+   "lat": 16.6969197,
+   "lon": 74.2438012,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Poorvarang, Mahalaxminagar, Rajarampuri, Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Janaki Multispeciality Hospital",
+    "name:en": "Janaki hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7041087484,
+   "lat": 16.701583,
+   "lon": 74.2394954,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "804/2,805/2 E Ward, Kadamwadi Road",
+    "addr:postcode": "416003",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Apple Hospitals and Research Institute Ltd",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7042946335,
+   "lat": 16.6899196,
+   "lon": 74.22475,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1498/1,Gulab Galli Corner, Kalamba Road, Mangalwar Peth",
+    "addr:postcode": "416012",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Tamhankar Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7042962050,
+   "lat": 16.6950996,
+   "lon": 74.2156348,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "65, Uttareshwar Pet",
+    "addr:postcode": "416012",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Omkar Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7043041337,
+   "lat": 16.7089054,
+   "lon": 74.2535515,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "23, Opp Rajesh Motors Bhusawal",
+    "addr:postcode": "416003",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Joshi Hospital and Dialysis Centre",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7043071375,
+   "lat": 16.6843474,
+   "lon": 74.2449225,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "ward No.-4, Ashwini Nagar",
+    "addr:postcode": "416003",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Tagare Eye Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7043252898,
+   "lat": 16.6884149,
+   "lon": 74.2372819,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1330/4 'E', Residency Colony, Shastrinagar",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Shri Siddhivinayak Heart Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7043380380,
+   "lat": 16.7057396,
+   "lon": 74.2464992,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Ashoka Arcade, 517/A/1, E Ward, Plot No 4, Station Road, Kawla Naka, Shivaji Park",
+    "addr:postcode": "416003",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vasan Eye Care Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7043397392,
+   "lat": 16.8719738,
+   "lon": 74.1925341,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "At Post. Kodoli, Tal -Panhala",
+    "addr:postcode": "416114",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Shree Hospital Kodoli",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7044461120,
+   "lat": 16.6760121,
+   "lon": 73.9724872,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Gaganbawada Kolhapur Main Road Nivade Salwan Nivade Salwan",
+    "addr:postcode": "416206",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Jadhav Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7044514549,
+   "lat": 16.7000596,
+   "lon": 74.2488214,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "No. 1169, Rajaram Road, Takala",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Purva Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7044812735,
+   "lat": 16.777603,
+   "lon": 74.5542251,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "2008/A-115, 11 Th Lane, Kadage Mala",
+    "addr:postcode": "416101",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Awalekar Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7045168610,
+   "lat": 16.7036601,
+   "lon": 74.2360172,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Royal Pride Opp Hotel Gokul No. 350/1, Station Road",
+    "addr:postcode": "416003",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Aastha Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7045277711,
+   "lat": 16.6937986,
+   "lon": 74.2444628,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1982 E Ward, 9Th Lane Rajarampuri",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Pragati Netra Rugnalaya",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7046433791,
+   "lat": 16.694473,
+   "lon": 74.2422903,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1717B, Rajarampuri 7th Lane",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dhanwantri Fracture, Orthopaedic and Arthroscopy Centre",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7047688241,
+   "lat": 16.6962695,
+   "lon": 74.2744526,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "C.S. No. 1095",
+    "addr:postcode": "416005",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Konark Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7047847067,
+   "lat": 16.7006428,
+   "lon": 74.2278627,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Shivaji Nagar Kolahpur",
+    "addr:postcode": "416112",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Ent Hospital (Dr. Balashed Patil)",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7047905619,
+   "lat": 16.6945206,
+   "lon": 74.2425504,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Seventh Lane, Rajarampuri, Near Sarda Medical",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Gurukrupa Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7048054875,
+   "lat": 16.6811245,
+   "lon": 74.2111904,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "#29, Sham Society,Devkar Panand",
+    "addr:postcode": "416012",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Lalla Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7048131909,
+   "lat": 16.6893693,
+   "lon": 74.4705798,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "691/1 Niramayee Ring Road Niramayee Ring Road Ichalkuranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Niramaya Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7048261208,
+   "lat": 16.6834877,
+   "lon": 74.4726815,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Mahasatta Chowk, Sangli Road, Ichalkarnaji, Taluka-Hatkanagale",
+    "addr:postcode": "416115",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Sushil Datta Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7048439601,
+   "lat": 16.8734602,
+   "lon": 74.1891919,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kodoli, Panhala",
+    "addr:postcode": "416114",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Yashwant Dharmartha Ayurvedic Rugnalay",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7048489112,
+   "lat": 16.230138,
+   "lon": 74.3612004,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Mahatma Phule Colony, Market Yard",
+    "addr:postcode": "416502",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Bhavani Maternity and Surgical Icu",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7048616143,
+   "lat": 16.6764033,
+   "lon": 74.2059899,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "37/B, Tuljabhavani Hos.Soc, Opp Sane Guruji Bus Stop, V.R.Camp Road",
+    "addr:postcode": "416003",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Gayatri Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7048944234,
+   "lat": 16.695186,
+   "lon": 74.2450704,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "2021/A, Girnar Height , 6Th Lane Rajarampuri",
+    "addr:postcode": "416003",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Children Surgical Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7049074554,
+   "lat": 16.3175125,
+   "lon": 74.1443527,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Gargoti",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Shikalgar Orthopedic and Pediatric Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7049148942,
+   "lat": 16.6984475,
+   "lon": 74.2194767,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "690 D Ward, Opp Shahu Udyan Gangawesh Gangawesh",
+    "addr:postcode": "416002",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Tejomaya Netra Rugnalaya",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7049166894,
+   "lat": 16.6981418,
+   "lon": 74.2469533,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1182/1,2nd Lane,Rajarampuri",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Shri Ram Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7049226890,
+   "lat": 16.2561019,
+   "lon": 74.3554154,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "P-2, M.I.D.C Area, Sendrimal, Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Lt Kedari Redkar Charitable Hospital and Research",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7049331705,
+   "lat": 16.7775619,
+   "lon": 74.5536049,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kadage Mala Near City Post, Jaisingpur",
+    "addr:postcode": "416101",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Shanti Maternity Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7049641560,
+   "lat": 16.5804843,
+   "lon": 74.3103674,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Newar Post Office Men Road Kagal",
+    "addr:postcode": "416216",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Ganga Hospital Infertility and Laproscopy Center",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7049885385,
+   "lat": 16.2200792,
+   "lon": 74.3494847,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "A/P-Gadhinglaj, Mahagaon Road, Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Omkar Medical Charitable Trust (Magdum Hospital)",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7050460736,
+   "lat": 16.696134,
+   "lon": 74.2151087,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "186/2 T.P. Scheme No2 Hari Mandir Road Hari Mandir Road",
+    "addr:postcode": "416012",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Sona Maternity and Nursing Home",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7051713430,
+   "lat": 16.6946105,
+   "lon": 74.2453815,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kolhapur",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Janani Maternity and Nursing Home",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7051845877,
+   "lat": 16.699351,
+   "lon": 74.2375137,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "608-E, Shahupuri, 2nd Lane",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Shree Kamakshi Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7052243968,
+   "lat": 16.7792722,
+   "lon": 74.5578991,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "11 Th Line Jaysingpur",
+    "addr:postcode": "416101",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Birnale Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7052261311,
+   "lat": 16.7774965,
+   "lon": 74.5535043,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "11 Th Line Jaysingpur",
+    "addr:postcode": "416101",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Shree Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7052389508,
+   "lat": 16.7008875,
+   "lon": 74.2423493,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Central Bus Stand Near Railway Fatak Behind Swarg Jewellers Sykes Extension",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vardhan Children Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7052995673,
+   "lat": 16.2210875,
+   "lon": 74.3490274,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Near Jagruti High School, Bhadgaon Road, Near Sri Ram Mandir, Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Hattarki Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7053000527,
+   "lat": 16.69724,
+   "lon": 74.2204108,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "273, D Gangavesh",
+    "addr:postcode": "416002",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Pishawikar Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7053068896,
+   "lat": 16.3173092,
+   "lon": 74.1445988,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Gargoti",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Gargoti Maternity Home",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7053084717,
+   "lat": 16.2218318,
+   "lon": 74.3483515,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Ajara Road Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Pattan Shetti",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7053294803,
+   "lat": 16.7008059,
+   "lon": 74.2327054,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "774/Kh, Shahpuri 5Th Lane E Ward",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Swami Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7054168465,
+   "lat": 16.6888677,
+   "lon": 74.2223279,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1731 / 15 / B, New Mahadwar Road",
+    "addr:postcode": "416012",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Deshpande Orthopaedic Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7054251302,
+   "lat": 16.2204437,
+   "lon": 74.3518189,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Ankur Building , Doctors Colony",
+    "addr:postcode": "416502",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Ankur Eye Hospital Laser and Phaco Centre - Gadhinglaj",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7054905948,
+   "lat": 16.6995316,
+   "lon": 74.2396429,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1099/1, Opposite B.T. College, Near K.D.C.C. Bank , Shahupuri, 4Th Lane",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Warana Institute Of Uro - Surgery",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7054976488,
+   "lat": 16.6961455,
+   "lon": 74.226252,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "633,'C' Ward, Bindu Chowk, Shivaji Road, 633,'C' Ward, Bindu Chowk, Shivaji Road",
+    "addr:postcode": "416002",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Drishtideep Netraseva (Phaco and Eye Care Centre) - Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7055244767,
+   "lat": 16.7013647,
+   "lon": 74.233321,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Shahupur, 3Road Lane",
+    "addr:postcode": "416003",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Vijay Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7055382994,
+   "lat": 16.6853613,
+   "lon": 74.2380148,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "R.S. No. 628 Near Kmt Workshop , Shastri Nagar",
+    "addr:postcode": "416002",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Aster Aadhar Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7059215454,
+   "lat": 16.7004334,
+   "lon": 74.2153247,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1486 A/1, D Ward, Maskuti Talaw, Uttareshwar Peth",
+    "addr:postcode": "416002",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Guru Prasad Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7062356508,
+   "lat": 16.6973373,
+   "lon": 74.2442246,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "near Kamala College,Mahalaxminagar, Kale Road, Tal-Panhala",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Parvati Hospital, Kale",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7062539952,
+   "lat": 16.7039915,
+   "lon": 74.246736,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "C. S No 517 A/13, Plot No-27 Near Gadre Garden , Shivaji Pak",
+    "addr:postcode": "416012",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Apex Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7063077055,
+   "lat": 16.6922873,
+   "lon": 74.1956024,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Vishnu Plaza Khari Corner, New Mahadwar Road",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Siddhi Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7063899578,
+   "lat": 16.6803839,
+   "lon": 74.4643564,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Vikash Nagar, Vikram Nagar, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Dr.Amar Kulkarni",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7063909945,
+   "lat": 16.7224375,
+   "lon": 74.2545587,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "804/2 ,805/2, E Ward, Circuit House, Kadamwadi Road",
+    "addr:postcode": "416003",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "check_date": "2026-07-04",
+    "name": "Apple Saraswati Multispeciality Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7064366724,
+   "lat": 16.7062195,
+   "lon": 74.2440364,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "204 K/30B, New Shahupuri, Behind Turist Hotel,Near C.B.S",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Mudhale Nursing Home and Kolhapur Endoscopy Centre",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7064879358,
+   "lat": 16.2197457,
+   "lon": 74.3515554,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Doctors Colony, Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Tara Children Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7064943439,
+   "lat": 16.6946259,
+   "lon": 74.2153206,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "City Centre, In Front Rankala Talim",
+    "addr:postcode": "416122",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Sangeeta Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7065561553,
+   "lat": 16.6911922,
+   "lon": 74.4532929,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Near Shahu Putla, Kolhapur Road",
+    "addr:postcode": "416115",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Sanjayot Netralaya",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7065820617,
+   "lat": 16.700427,
+   "lon": 74.239136,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Patki Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7066371678,
+   "lat": 16.6954461,
+   "lon": 74.245519,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "2021/B, 'E' Ward, Rajarampuri 4Th Lane",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Shri Sai Cardiac Center (Unit Of Mahalaxmi Hrudayalaya) - Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7066374643,
+   "lat": 16.6769998,
+   "lon": 74.5919608,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Majarewadi Road, Kurundwad",
+    "addr:postcode": "416106",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Sumitra Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7066374649,
+   "lat": 16.7166872,
+   "lon": 74.2413609,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Pratiraj Complex Opp Pitali Ganpati Mandir Opp Pitali Ganpati Mandir",
+    "addr:postcode": "416003",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Ishan Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7066374661,
+   "lat": 16.7005978,
+   "lon": 74.2278667,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1451/C, Dr. Ahilya Devi Complex Behind Cpr Hospital Laxmi Puri",
+    "addr:postcode": "416006",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Vairat Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7066497770,
+   "lat": 16.7511787,
+   "lon": 74.5888115,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Dattanagar, Shirol",
+    "addr:postcode": "416122",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Shree Datta Shetkari Sahakari Sakhar Karkhana Ltd",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7066505702,
+   "lat": 16.6981251,
+   "lon": 74.2246715,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1837, C , Somwar Peth",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Masai Medical Foundation, Shri Swami Samarath Hosp",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7066505727,
+   "lat": 16.6998553,
+   "lon": 74.2417042,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1101 / E Shahupuri, Opposite Shahaji Law College",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Kapale Hospital - Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7066505762,
+   "lat": 16.5804971,
+   "lon": 74.3099121,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Vijay Arcade , Pune Banglore Road, Kagal",
+    "addr:postcode": "416216",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Rukad Fracture Accident and Orthopaedic Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7066847634,
+   "lat": 16.694789,
+   "lon": 74.2165115,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1670/A, A Ward Rankalavesh Road Shivaji Peth Shivaji Peth",
+    "addr:postcode": "416012",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Raghunathrao Nimbalkar Memorial Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7067113510,
+   "lat": 16.6904908,
+   "lon": 74.4550605,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kolhapur Road, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Yamuna Surgicals",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7067114341,
+   "lat": 16.7012157,
+   "lon": 74.2312033,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "G N Chambers, Kolekar Tikati Mangalwar Peth",
+    "addr:postcode": "416012",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Ashwini Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7067938898,
+   "lat": 16.7018618,
+   "lon": 74.232637,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "643/1-4, E, Ward ,Rukada, Chambers, First Floor, Near Hariprasad, Mangai , Karyalay , Shahupuri 2nd Lane",
+    "addr:postcode": "416221",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Om Sai Children's Hospital and Paediatric Pulmonology& flexible bronchoscopy Clinic",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7068114771,
+   "lat": 16.7010615,
+   "lon": 74.2356209,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "071E , 2nd Lane , Shahpuri",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Desai Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7068118361,
+   "lat": 16.6846059,
+   "lon": 74.2232117,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "716-A, Manglwar Peth",
+    "addr:postcode": "416012",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Gangotri Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7068218621,
+   "lat": 16.2200857,
+   "lon": 74.3499018,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Bhadgaon Road Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Ganga Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7069632820,
+   "lat": 16.9049286,
+   "lon": 73.9476137,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Bambavde Tel Shauwadi",
+    "addr:postcode": "416213",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Sanjeevani Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7069632825,
+   "lat": 16.6942315,
+   "lon": 74.4493984,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Behind Upvan Hotel, Near Modern High School, Kabnoor Road, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Accident Fracture Orth and Surgical Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7070552655,
+   "lat": 16.6971937,
+   "lon": 74.243223,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1803/1-A, 3Road Lane , Rajarampuri",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Shraddha Clinic and Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7072576012,
+   "lat": 16.8336619,
+   "lon": 74.3192629,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "At- Post- Vadgaon, Tal- Hatkanangale",
+    "addr:postcode": "416112",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr Mahapure Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7073765596,
+   "lat": 16.6840131,
+   "lon": 74.4739258,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Rajwada, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Safalya Fertility, Endoscopy and Intensive Medical Care Centre- Ichalkaranji",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7073879391,
+   "lat": 16.7121467,
+   "lon": 74.227109,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "182/83 B, Bawada Road, Near Mahaveer College, Nagala Park",
+    "addr:postcode": "416002",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Western India Institute Of Neuro Sciences - Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7073909320,
+   "lat": 16.7116997,
+   "lon": 74.2400721,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "247/1 `E` Ward, Tarabai Park",
+    "addr:postcode": "416003",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Kelavkar Medical Centre and Critical Care Unit",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7073949868,
+   "lat": 16.6921242,
+   "lon": 74.2274456,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "No. 2563, B Ward, Khasbaug, Mangalwar Peth",
+    "addr:postcode": "416012",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Kotkar Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7073961701,
+   "lat": 16.6880507,
+   "lon": 74.4658182,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Mahatma Phule Chowk, Vetal Peth, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Kalp-Deep Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7074576492,
+   "lat": 16.6947884,
+   "lon": 74.2307977,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Shahu Nagar",
+    "addr:postcode": "416004",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Ganesh Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7075571810,
+   "lat": 16.7059915,
+   "lon": 74.2437386,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "204A/ Kh/7A-2 , 204/Kh-6, Behind Hotel Tourist , Station Road, New Shahupuri",
+    "addr:postcode": "416003",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "email": "info@kiothospital.org",
+    "healthcare": "hospital",
+    "name": "Kolhapur Institute Of Orthopaedics and Trauma",
+    "source": "OpenGovernmentData",
+    "website": "https://www.kiothospital.org/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7076529373,
+   "lat": 16.7001701,
+   "lon": 74.2361447,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "817, `E` Ward, Shahupuri 5th Lane",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Chougule Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7076529378,
+   "lat": 16.6941056,
+   "lon": 74.2430145,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1708-E, Rajaram Puri, 8th Lane",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "City Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7079381567,
+   "lat": 16.693015,
+   "lon": 74.2449886,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "C.S.No.1962, E Ward, Rajarampuri ,10Th Lane, Opposite Mahalaxmi Bank",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Lotus Hospital and Research Centre - Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7079665740,
+   "lat": 16.7833579,
+   "lon": 74.5563166,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Sangli Road Jaysingpur",
+    "addr:postcode": "416101",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Sanjeevan Hospital, Jaysingpur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7080205186,
+   "lat": 16.7058309,
+   "lon": 74.2426845,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "311/E Opp Hotel Maratha Regency New Shahupuri New Shahupuri",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Jaya Urology Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7080205196,
+   "lat": 16.2258482,
+   "lon": 74.3474342,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Ajja Daddi Colony , Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Kai. Suresh Deshpande Memo.Orthopaedic Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7080205272,
+   "lat": 16.7050474,
+   "lon": 74.2431767,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kolhapur",
+    "addr:postcode": "416003",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Saideep Fracture and Accident Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7080269611,
+   "lat": 16.6870069,
+   "lon": 74.243968,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "5th, Pratibha Nagar, Plot No 5, Pratibha Nagar",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Chirayu Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7080386015,
+   "lat": 16.9212358,
+   "lon": 73.9316013,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Ratnagiri Naka 536 D Ward Malkapur Tal Shahuwadi Malkapur Tal Shahuwadi",
+    "addr:postcode": "416113",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Om Swaroop Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7081965728,
+   "lat": 16.6140005,
+   "lon": 74.2576338,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kagal Road, Kanheri Math",
+    "addr:postcode": "416234",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Siddhagiri Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7082370216,
+   "lat": 16.6796626,
+   "lon": 74.4654018,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "5/33, Natyagruha Road, Kagwade Mala, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Katkar Maternity And Surgical Hospital, Ichalkaranji",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7082370221,
+   "lat": 16.7760519,
+   "lon": 74.557026,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Shivaji Housing Society, Jaysingpur",
+    "addr:postcode": "416101",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Shree Maternity Home",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7082370251,
+   "lat": 16.6942161,
+   "lon": 74.2436609,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "8th Lane, Rajarampuri, Rajarampuri",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Maher Maternity Home , Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7082370256,
+   "lat": 16.7089599,
+   "lon": 74.2814733,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Gandhinagar Rd, Bapat Camp",
+    "addr:postcode": "416005",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Keswani Fracture And Accident Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7082579574,
+   "lat": 16.7305431,
+   "lon": 74.2134726,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "A/P Vadnage Parwati Mandir Bus Stop Parwati Mandir Bus Stop",
+    "addr:postcode": "416229",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Shivshakti Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7083324278,
+   "lat": 16.6961044,
+   "lon": 74.2165102,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Plot No.95, A Ward,T P Scheme No.2,Harimandir Road,Dudhali",
+    "addr:postcode": "416012",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Karna Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7085422799,
+   "lat": 16.6976369,
+   "lon": 74.2429836,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "1793, E Ward, II Lane, Venkateshwara Garment, Janata Bazar",
+    "addr:postcode": "416008",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sneh Hospital, Kolhapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7085422845,
+   "lat": 16.700874,
+   "lon": 74.234249,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "201, Chandraganga Apartment, 3rd Lane, Shahupuri",
+    "addr:postcode": "416001",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Child Hospital and Premature Care Centre / Niramay Bal Rugnalay",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7085731331,
+   "lat": 16.7299382,
+   "lon": 74.2129234,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Near Parvati Mandir, Tal - Karveer",
+    "addr:postcode": "416229",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Pitrubal Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7085731365,
+   "lat": 16.7048187,
+   "lon": 74.2415915,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "328, E, Royal Plaza, Dabholkar Corner, New Shahupuri, Kolhapur",
+    "addr:postcode": "416002",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Lokmanya Hospital, Kolhapur",
+    "source": "OpenGovernmentData",
+    "website": "lokmanyahospitals.in"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7086092384,
+   "lat": 16.83118,
+   "lon": 74.3213658,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Opposite Petrol Pump, Hatkanangale Road , Pwth Vadgaon",
+    "addr:postcode": "416112",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sonkamal Orthopedic Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7086499124,
+   "lat": 16.5348004,
+   "lon": 74.1050456,
+   "tags": {
+    "addr:district": "Bhogavati",
+    "addr:full": "MH SH 116",
+    "addr:postcode": "416211",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Ramkrishna Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7086941268,
+   "lat": 16.6994353,
+   "lon": 74.2278787,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "At Post Yavaluj Tal. Panhala Tal. Panhala",
+    "addr:postcode": "416204",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Tara Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7086946252,
+   "lat": 16.6790479,
+   "lon": 74.2313971,
+   "tags": {
+    "addr:district": "Thane",
+    "addr:full": "C/102/103, Maurya Shopping Centre, Ambadi Road, Vasai (W), Thane",
+    "addr:postcode": "401202",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Kusum Maternity and Medicare",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7087131484,
+   "lat": 16.694358,
+   "lon": 74.2312949,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "No. 946, A- B Ward, Tembe Road, Opp. Savitribai Phule Hospital",
+    "addr:postcode": "416002",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Shree Venkateshwara Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7087491726,
+   "lat": 16.6772576,
+   "lon": 74.5948304,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Ring Road, Kurundwad, Behind Kurunwad Bus Stop,Taluka Shirol",
+    "addr:postcode": "416103",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Vinay Jyoti Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642240,
+   "lat": 16.4151084,
+   "lon": 74.0497678,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Near to solnkur college, near to balumama temple",
+    "addr:postcode": "416211",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Radhanagari",
+    "amenity": "hospital",
+    "name": "Rural Hospital, Solankur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642249,
+   "lat": 16.7261914,
+   "lon": 74.244089,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kasaba Bavada",
+    "addr:postcode": "416006",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Karvir",
+    "amenity": "hospital",
+    "name": "Seva hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642256,
+   "lat": 16.6768417,
+   "lon": 74.2312841,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "kMC building, isolation hospital",
+    "addr:postcode": "416012",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Karvir",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Isolation Government Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642261,
+   "lat": 16.5043864,
+   "lon": 74.1182915,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:postcode": "416208",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Radhanagari",
+    "amenity": "hospital",
+    "name": "Thikpurli, Government Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642262,
+   "lat": 16.810208,
+   "lon": 74.107176,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Near Sajjakoti, Panhala",
+    "addr:postcode": "416201",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Panhala",
+    "amenity": "hospital",
+    "check_date": "2025-11-25",
+    "name": "Rural Hospital, Panhala",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642273,
+   "lat": 16.315034,
+   "lon": 74.135077,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Patgaon Road, Jotiba Temple, Gargoti",
+    "addr:postcode": "416219",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Bhudargad",
+    "amenity": "hospital",
+    "name": "Rural Hospital Gargoti",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642276,
+   "lat": 16.411856,
+   "lon": 73.995548,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Near panchyat samiti Radhanagari, Radhanagari",
+    "addr:postcode": "416212",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Radhanagari",
+    "amenity": "hospital",
+    "name": "Rural Hospital, Radhanagari",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642289,
+   "lat": 16.057653,
+   "lon": 74.321181,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Near Police Station, Nesari",
+    "addr:postcode": "416504",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Gadhinglaj",
+    "amenity": "hospital",
+    "name": "Rural Hospital, Nesari",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642295,
+   "lat": 16.1065592,
+   "lon": 74.1997341,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "On the polgaon road, Ajara",
+    "addr:postcode": "416505",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Ajra",
+    "amenity": "hospital",
+    "name": "Rural Hospital, Ajara",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642303,
+   "lat": 16.548314,
+   "lon": 73.838974,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:postcode": "416206",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Bavda",
+    "amenity": "hospital",
+    "name": "Rural Hospital Gaganbawada",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642304,
+   "lat": 16.835267,
+   "lon": 74.315172,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Vadgaon - Latwade Road, Shivaji Chowk, Peth Vadgaon",
+    "addr:postcode": "416112",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Hatkanangle",
+    "amenity": "hospital",
+    "name": "Balwantrao Yadav Hospital, Peth Vadgaon",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642314,
+   "lat": 16.707148,
+   "lon": 74.150412,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Rural Hospital, Khupire",
+    "addr:postcode": "416205",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Karvir",
+    "amenity": "hospital",
+    "name": "Rural Hospital, Khupire",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642337,
+   "lat": 16.860552,
+   "lon": 74.232577,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Rural Hospital, Near Mahadev Temple, Pargaon",
+    "addr:postcode": "416137",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Hatkanangle",
+    "amenity": "hospital",
+    "name": "Rural Hospital, Pargaon",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642354,
+   "lat": 16.396917,
+   "lon": 74.190322,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:postcode": "416219",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Kagal",
+    "amenity": "hospital",
+    "name": "Rural Hospital, Murgud",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642360,
+   "lat": 16.8734959,
+   "lon": 74.1897933,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Near Gandhi Hospital, KODOLI",
+    "addr:postcode": "416114",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Panhala",
+    "amenity": "hospital",
+    "description": "Sub District Hospital",
+    "name": "SDH KODOLI",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642361,
+   "lat": 16.223235,
+   "lon": 74.34472,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:postcode": "416502",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Gadhinglaj",
+    "amenity": "hospital",
+    "description": "Sub District Hospital",
+    "name": "SDH Gadhinglaj",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642369,
+   "lat": 16.6860174,
+   "lon": 74.2205037,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Shivajipet, Sambhaji Nagar",
+    "addr:postcode": "416012",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Karvir",
+    "amenity": "hospital",
+    "name": "Firangai Hospital",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642398,
+   "lat": 16.709278,
+   "lon": 74.301001,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Chh.Yuvraj Shahu Maharaj Highschool, GANDHINAGAR",
+    "addr:postcode": "416119",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Karvir",
+    "amenity": "hospital",
+    "name": "Civil Sub Hospital, Gandhinagar",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642402,
+   "lat": 16.9226761,
+   "lon": 73.9290283,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Rural Hospital , Malkapur",
+    "addr:postcode": "415101",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Shahuwadi",
+    "amenity": "hospital",
+    "name": "Rural Hospital, Malkapur",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642405,
+   "lat": 16.685731,
+   "lon": 74.457653,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Shivaji Nagar Police Station",
+    "addr:postcode": "416115",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Hatkanangle",
+    "amenity": "hospital",
+    "name": "IGM Hospital, Ichalkaranji",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642416,
+   "lat": 15.9463,
+   "lon": 74.183744,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Bus Stand Road, Near Tahasil Office, Chandgad",
+    "addr:postcode": "416509",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Chandgad",
+    "amenity": "hospital",
+    "name": "Rural Hospital, Chandgad",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642417,
+   "lat": 16.592551,
+   "lon": 74.310605,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:postcode": "416216",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Kagal",
+    "amenity": "hospital",
+    "name": "Rural Hospital KAGAL",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642421,
+   "lat": 16.7524288,
+   "lon": 74.4359862,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Sardar Road, Hatkanangale",
+    "addr:postcode": "416112",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Hatkanangle",
+    "amenity": "hospital",
+    "name": "Rural Hospital Hatkanangale",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226642423,
+   "lat": 16.7366999,
+   "lon": 74.6043656,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Shirol, Miraj, Devgad - Nipani Hwy, Kolhapur",
+    "addr:postcode": "416103",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Shirol",
+    "amenity": "hospital",
+    "description": "Civil Hospital",
+    "name": "Civil Hospital Shirol",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7625325591,
+   "lat": 16.6583608,
+   "lon": 74.5103931,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Abdul Lat",
+    "addr:postcode": "416143",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "name": "Government Hospital, Abdul Lat",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338021,
+   "lat": 15.9451521,
+   "lon": 74.1844719,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Chandgad",
+    "addr:postcode": "416509",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Shivkrupa Multispeciality Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338023,
+   "lat": 16.7426894,
+   "lon": 74.3207172,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "NH204, Herle",
+    "addr:postcode": "416118",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Hridaya Multyspeciality Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338027,
+   "lat": 16.6775285,
+   "lon": 74.4661487,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Marda Process Road, Shripad Nagar, Mahadev Nagar, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Dr. Abhay Kudache Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338028,
+   "lat": 16.68442,
+   "lon": 74.462535,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kagwade Mala, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Sakharpe Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338034,
+   "lat": 16.218424,
+   "lon": 74.350515,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Gadhinglaj Chandgad Road, Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Shivkrupa Modern Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338035,
+   "lat": 16.6873168,
+   "lon": 74.4706216,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Rajaram Stadium, Near Shivaji Putla, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Maher Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338036,
+   "lat": 16.681905,
+   "lon": 74.4661355,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Namdev Ground Road, Kagwade Mala, Ichalkaranj",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Borgave Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338037,
+   "lat": 16.6837,
+   "lon": 74.461296,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kagwade Mala, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Dr. Pathan Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338039,
+   "lat": 16.6768164,
+   "lon": 74.473412,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Solage Mala, Ichalkaranji",
+    "addr:postcode": "416121",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Dr. Kumbhar Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338041,
+   "lat": 16.2240488,
+   "lon": 74.3496232,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Tilak Path, Opp. Bank of Baroda, Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Banashree Nursing Home",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338042,
+   "lat": 16.6802591,
+   "lon": 74.4643868,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kagwade Mala, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Ashwini Eye Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338044,
+   "lat": 16.2211035,
+   "lon": 74.3519982,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Parvati ENT Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338045,
+   "lat": 16.6860558,
+   "lon": 74.4610597,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Rajaram Stadium, Near Rani Bag, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Arihant Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338046,
+   "lat": 16.685467,
+   "lon": 74.4727334,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Aasara Nagar, Rajwada, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Aai Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338051,
+   "lat": 16.1130311,
+   "lon": 74.2122327,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Ajara Mahagaon Road, Ajara",
+    "addr:postcode": "416505",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Dr. Deshpande Nursing Home",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338053,
+   "lat": 16.22291,
+   "lon": 74.346826,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Church Road, Behind Kacheri, Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Kalyanshetty Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338054,
+   "lat": 16.218471,
+   "lon": 74.3517476,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "City Care Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338056,
+   "lat": 16.665087,
+   "lon": 74.2697831,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Ujalaiwadi, Kolhapur",
+    "addr:postcode": "416004",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Purvapunyai Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338057,
+   "lat": 16.6898293,
+   "lon": 74.456499,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Near Bus Stand, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Dr. Ashok Kajave Children Hospital and Maternity Home",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338058,
+   "lat": 16.678675,
+   "lon": 74.464792,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Awade Nagar, Mahadev Nagar, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Lata Surgical Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338059,
+   "lat": 16.7347091,
+   "lon": 74.2436718,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kasaba Bawada Kolhapur",
+    "addr:postcode": "416006",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Dnyandeep Nursing Home & General Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338062,
+   "lat": 16.2237055,
+   "lon": 74.3520208,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "InFront of Bus Stand, Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Kesarkar Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338064,
+   "lat": 16.6824408,
+   "lon": 74.4651787,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kagwade Mala, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Dangare Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338066,
+   "lat": 16.221319,
+   "lon": 74.351582,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Doctors Colony Road, Near Gadhinglaj Stand, Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Desai Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338067,
+   "lat": 16.683092,
+   "lon": 74.466716,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kagwade Mala, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Dr. Arvind Lande Surgical, Maternity and Urology Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338074,
+   "lat": 16.2205978,
+   "lon": 74.3478572,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Amboli Gadhinglaj Road, Gandhinagar, Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Tara Nursing Home",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338076,
+   "lat": 16.578241,
+   "lon": 74.315064,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kagal",
+    "addr:postcode": "416216",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Kaulavkar Hospital & Dental Care",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338077,
+   "lat": 16.6850626,
+   "lon": 74.4569102,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Near IGM Road, Bandgar Mala, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Sidnale Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338080,
+   "lat": 16.6812728,
+   "lon": 74.4702332,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Rajwada, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Dr. Hedgewar Hospital SevaBharati",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338082,
+   "lat": 16.9034099,
+   "lon": 73.948338,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Shahuwadi, Kolhapur Ratnagiri Road, Kolhapur",
+    "addr:postcode": "415101",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Ujjwala Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338083,
+   "lat": 16.412399,
+   "lon": 74.139415,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kolhapur",
+    "addr:postcode": "416208",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Jeevandhara Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338084,
+   "lat": 16.5811069,
+   "lon": 74.3107093,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kagal",
+    "addr:postcode": "416216",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Magdum Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338087,
+   "lat": 16.221173,
+   "lon": 74.3508018,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Sukhayu Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338090,
+   "lat": 16.2197432,
+   "lon": 74.3464415,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Gandhinagar",
+    "addr:postcode": "416502",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Pattanshetti Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338091,
+   "lat": 16.7233437,
+   "lon": 74.3563375,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Rukadi",
+    "addr:postcode": "416118",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Sainath Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338097,
+   "lat": 16.673322,
+   "lon": 74.27176,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Bengaluru - Mumbai Highway, Ujalaiwadi, Kolhapur",
+    "addr:postcode": "416004",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Athaayu Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338100,
+   "lat": 16.1691501,
+   "lon": 74.4670426,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Halkarni",
+    "addr:postcode": "416506",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Hattarki Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338102,
+   "lat": 16.6984956,
+   "lon": 74.4522093,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Jawahar Nagar, Ichalkaranji",
+    "addr:postcode": "416116",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Ligade Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338103,
+   "lat": 16.5737522,
+   "lon": 74.3162472,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Patil Galli, Kagal",
+    "addr:postcode": "416216",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Narayan Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338105,
+   "lat": 16.681561,
+   "lon": 74.447807,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Behind Suraj Gas Godown, Chandoor Road, Ichalkaranji",
+    "addr:postcode": "416115",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Alliance Multispeciality Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338107,
+   "lat": 16.3169796,
+   "lon": 74.1431682,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kolhapur-Radhanagari Road, Gargoti",
+    "addr:postcode": "416209",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Venkateshwara Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338111,
+   "lat": 16.220766,
+   "lon": 74.351586,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Pednekar Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338113,
+   "lat": 16.2193726,
+   "lon": 74.3482985,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Gandhinagar, Gadhinglaj",
+    "addr:postcode": "416502",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "B S Patil Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338115,
+   "lat": 16.6964375,
+   "lon": 74.446251,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Jawahar Nagar, Ichalkaranji",
+    "addr:postcode": "416116",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Pink Lotus Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338116,
+   "lat": 16.112461,
+   "lon": 74.211721,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Sutar Galli, Ajara",
+    "addr:postcode": "416505",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Nityashradha Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643338117,
+   "lat": 16.5867961,
+   "lon": 74.3068233,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Shahu Colony, Kagal",
+    "addr:postcode": "416216",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Sanjeevani Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632426,
+   "lat": 16.701221,
+   "lon": 74.22922,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Subhash Road, Laxmipuri, Kolhapur",
+    "addr:postcode": "416002",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Kolhapur Kidney Care & Super Speciality Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632427,
+   "lat": 16.6970733,
+   "lon": 74.2500391,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "C.S. 1182/18, Mali Colony, E Ward, Takala, Kolhapur",
+    "addr:postcode": "416012",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Devdhar Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632428,
+   "lat": 16.6720909,
+   "lon": 74.2178235,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kalamba - Gargoti Road, Ganesh Colony, Kalamba, Kolhapur",
+    "addr:postcode": "416007",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Om Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632431,
+   "lat": 16.713607,
+   "lon": 74.231369,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "New Palace Road, Near Mahaveer College, Uday Singh Nagar, Ramanmala, Kolhapur",
+    "addr:postcode": "416003",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Antrang Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632432,
+   "lat": 16.718374,
+   "lon": 74.247845,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Dyandeo Colony, Tarabai Park, Kolhapur",
+    "addr:postcode": "416005",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "ESIC Hospital, Kamgar",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632435,
+   "lat": 16.693557,
+   "lon": 74.1975519,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Phulewadi, Kolhapur",
+    "addr:postcode": "416010",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Akshay Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632437,
+   "lat": 16.70014,
+   "lon": 74.2236106,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Ward C, Near Post Office, Shaniwar Peth, Kolhapur",
+    "addr:postcode": "416002",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Mauli Maternity Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632438,
+   "lat": 16.6946312,
+   "lon": 74.2314454,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Subhash Road, Shivaji Udyam Nagar, Kolhapur",
+    "addr:postcode": "416002",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Vyankateshwara Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632440,
+   "lat": 16.6890832,
+   "lon": 74.2394488,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Shastri Nagar, Kolhapur",
+    "addr:postcode": "416008",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Kulkarni Children's Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632441,
+   "lat": 16.695726,
+   "lon": 74.217462,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kunkeshwar - Talewadi Road, Uttareshwar Peth, Kolhapur",
+    "addr:postcode": "416012",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Chintamani Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632443,
+   "lat": 16.692616,
+   "lon": 74.196858,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Phulewadi Road, C Ward, Kolhapur",
+    "addr:postcode": "416010",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Shri Swami Samarth Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632446,
+   "lat": 16.707829,
+   "lon": 74.253965,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Mahalaxmi bhavan, unique park, Nimbalkar Colony, Ruikar Colony, Kolhapur",
+    "addr:postcode": "416005",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Tulip Traumacare & Multispeciality Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632447,
+   "lat": 16.6898446,
+   "lon": 74.1734233,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Balinge",
+    "addr:postcode": "416010",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Sahyadri Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632448,
+   "lat": 16.6871328,
+   "lon": 74.249851,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Pratibha Nagar, Kolhapur",
+    "addr:postcode": "416008",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dr. Appasaheb Varute Memorial Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632450,
+   "lat": 16.6837522,
+   "lon": 74.2294215,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Opposite IT Park, Race Course Naka, Padmala, Kolhapur",
+    "addr:postcode": "416012",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "North Star Superspecialty Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632451,
+   "lat": 16.700744,
+   "lon": 74.228007,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Laxmipuri, Kolhapur",
+    "addr:postcode": "416002",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Dr. Vasgadekar Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632455,
+   "lat": 16.690445,
+   "lon": 74.231695,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "B Ward, Mahalaxminagar, Subhash Road, Near Gokhale College, Kolhapur",
+    "addr:postcode": "416012",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Patil Nursing Home",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632458,
+   "lat": 16.7011775,
+   "lon": 74.2292023,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Laxmipuri, Kolhapur",
+    "addr:postcode": "416002",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Surya Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632460,
+   "lat": 16.696383,
+   "lon": 74.217107,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Ward-A, Near Rankalavesh Bus Stand, Dudhali, Kolhapur",
+    "addr:postcode": "416008",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Ganga Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632464,
+   "lat": 16.6889807,
+   "lon": 74.2430272,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Pratibhanagar Jagdale Colony, Rajarampuri, Kolhapur",
+    "addr:postcode": "416008",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Manorama Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632465,
+   "lat": 16.6918385,
+   "lon": 74.24552,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "12 B Galli, Near Vaidhya Pustakalya, Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Mahalaxmi Hospitals",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632466,
+   "lat": 16.696693,
+   "lon": 74.244169,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Poorvarang, Mahalaxminagar, Rajarampuri, Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sunrise Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632467,
+   "lat": 16.6758961,
+   "lon": 74.216116,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Vidhya Vihar Colony, Sambhajinagar, Opposite I.T.I, Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Shree Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632468,
+   "lat": 16.6721504,
+   "lon": 74.2142841,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Bhawani Housing Society, Deokar Panand, Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Kushal Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632471,
+   "lat": 16.6862214,
+   "lon": 74.2300682,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Race Course Naka, Manganwlar Peth, Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Life Line Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632474,
+   "lat": 16.7079928,
+   "lon": 74.2639308,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Mukt Sainik Colony, Kolhapur",
+    "addr:postcode": "416005",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Apoorva Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632475,
+   "lat": 16.6757169,
+   "lon": 74.2400565,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Vishawas Colony, Varsha Nagar, Samrat Nagar, Sahajeevan Society",
+    "addr:postcode": "416008",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Morale Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632478,
+   "lat": 16.6896406,
+   "lon": 74.2312435,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Mangeshkar Nagar Street, Manganwlar Peth, Kolhapur",
+    "addr:postcode": "416002",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sai Nursing Home",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632480,
+   "lat": 16.6841003,
+   "lon": 74.2460617,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Samrat Nagar, Kolhapur",
+    "addr:postcode": "416008",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Annapurna Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632481,
+   "lat": 16.6935746,
+   "lon": 74.2450749,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Poorvarang, Mahalaxminagar, Rajarampuri, Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Nadkarni Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632482,
+   "lat": 16.7081851,
+   "lon": 74.2648518,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Mukt Sainik Colony, Kolhapur",
+    "addr:postcode": "416005",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Hira Nursing Home",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632484,
+   "lat": 16.679589,
+   "lon": 74.2164942,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Near Sambhajinagar, S T Stand Road, Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Krishna Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632485,
+   "lat": 16.669154,
+   "lon": 74.203512,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Shivganga Colony, Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Morya Nursing Home",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632486,
+   "lat": 16.6779619,
+   "lon": 74.1905289,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Nana Patil Nagar, Kolhapur",
+    "addr:postcode": "416010",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Super Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632489,
+   "lat": 16.6942979,
+   "lon": 74.2311663,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Prabhanand Complex, 3rd Floor, Tembe Road, Kolhapur",
+    "addr:postcode": "416002",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Arya Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632490,
+   "lat": 16.68848,
+   "lon": 74.218765,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Mangalwar Peth, C Ward, Kolhapur",
+    "addr:postcode": "416012",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Pravara Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632491,
+   "lat": 16.688232,
+   "lon": 74.2228476,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "B Ward, C Ward, Kolhapur",
+    "addr:postcode": "416012",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Shubhankaroti Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632492,
+   "lat": 16.6881654,
+   "lon": 74.2167326,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Ward A, C Ward, Kolhapur",
+    "addr:postcode": "416012",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Dr. Walke Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632495,
+   "lat": 16.71111,
+   "lon": 74.230597,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kasaba Bawada Next To Mahaveer College, Ramanmala, Kolhapur",
+    "addr:postcode": "416003",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Diamond Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632496,
+   "lat": 16.689219,
+   "lon": 74.23943,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Shastri Nagar Chowk, Beside Kale Ground, Shastri Nagar, Kolhapur",
+    "addr:postcode": "416008",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Mangalmurti Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632497,
+   "lat": 16.6934803,
+   "lon": 74.1918161,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Kolhapur",
+    "addr:postcode": "416010",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Shree Nursing Home",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632498,
+   "lat": 16.705778,
+   "lon": 74.242327,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "New Shahupuri, Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "J K Multispeciality Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632499,
+   "lat": 16.6801,
+   "lon": 74.216111,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Plot No. 14, Shri Krishna Colony, Sambhaji Nagar, Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Karanjakar Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632500,
+   "lat": 16.702539,
+   "lon": 74.249569,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Infront Of Sayaji Hotel, Shivaji Park, Kolhapur",
+    "addr:postcode": "416008",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Swastik Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632504,
+   "lat": 16.6858537,
+   "lon": 74.2417598,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Jawahar Nagar, Kolhapur",
+    "addr:postcode": "416008",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Vijaya Nursing Home",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632508,
+   "lat": 16.6990519,
+   "lon": 74.2514731,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "E-Ward, Mali Colony, Takala, Kolhapur",
+    "addr:postcode": "416008",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Dige Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632509,
+   "lat": 16.694878,
+   "lon": 74.217404,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "A Ward, Near Kedar Plaza, Sakoli Corner, Kolhapur",
+    "addr:postcode": "416012",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Gholape Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632512,
+   "lat": 16.6754279,
+   "lon": 74.2152491,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "The Kolhapur Saw Mill, Sambhaji Nagar, Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Tejomay Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632515,
+   "lat": 16.6751821,
+   "lon": 74.235244,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Ward, Ring Road, Near Khatri Lawns, Shenda Park, Kolhapur",
+    "addr:postcode": "416008",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Siddhant Hospital & Research Centre",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632519,
+   "lat": 16.6877413,
+   "lon": 74.246938,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Rajarampuri Police Station, Daulat Nagar, Tinbatti Chowk, Kolhapur",
+    "addr:postcode": "416008",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Sushrisha Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632520,
+   "lat": 16.6936903,
+   "lon": 74.2201014,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Dr. S.J. Nagaonkar Road, Kolhapur",
+    "addr:postcode": "416012",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "name": "Matru Bal Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7643632521,
+   "lat": 16.6888559,
+   "lon": 74.2354337,
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Y.P.Powar Nagar, Kolhapur",
+    "addr:postcode": "416001",
+    "addr:state": "Maharastra",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Lotus Hospital",
+    "source": "Local Knowledge"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8247104061,
+   "lat": 16.6975178,
+   "lon": 74.2422648,
+   "tags": {
+    "addr:city": "Kolhapur",
+    "addr:housenumber": "1790, E Ward",
+    "addr:postcode": "416008",
+    "addr:street": "1st Lane, Rajarampuri",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "gynaecology;Neonatal_Care;Vaccinations;Infertility;PCOS_Clinic;Menopausal_Clinic;Obesity_Clinic;Rehabilitation;Hysteroscopy;Laparoscopy",
+    "name": "Shree Hospital and Research Institutes (SHRI)",
+    "website": "https://www.shrihospital.in/shrihospital"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9866666063,
+   "lat": 16.6949178,
+   "lon": 74.2173326,
+   "tags": {
+    "addr:city": "Kolhapur",
+    "addr:country": "IN",
+    "addr:postcode": "416012",
+    "addr:street": "Sakoli Corner - Rankala Street",
+    "amenity": "hospital",
+    "email": "sadgurumultispecialityhospital@gmail.com",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general;internal;orthopaedics;surgery;urology",
+    "image": "C:\\Users\\admin\\Desktop\\Sadguru",
+    "name": "Sadguru Multispeciality Hospital, Kolhapur",
+    "operator": "Sadguru Multispeciality Hospital, Kolhapur",
+    "phone": "7249324932"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10281749454,
+   "lat": 16.2130527,
+   "lon": 74.430594,
+   "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Government Hospital",
+    "name:kn": "ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆ"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11722124075,
+   "lat": 16.874725,
+   "lon": 74.0417266,
+   "tags": {
+    "addr:city": "Bambavade",
+    "addr:district": "Kolhapur",
+    "addr:postcode": "416213",
+    "addr:street": "Sarud road",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "gynaecology",
+    "name": "Yashoda Hospital"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11722159271,
+   "lat": 16.8711494,
+   "lon": 74.0416236,
+   "tags": {
+    "addr:city": "Bambavade",
+    "addr:district": "Kolhapur",
+    "addr:postcode": "416213",
+    "amenity": "police",
+    "name": "Bambavade Police Station"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12353496070,
+   "lat": 16.6657747,
+   "lon": 74.3977564,
+   "tags": {
+    "addr:city": "Ingali",
+    "addr:district": "Kolhapur",
+    "addr:postcode": "416202",
+    "addr:street": "Near Grampanchyat Karaylay",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "ZP Hospital"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13807994100,
+   "lat": 16.7084539,
+   "lon": 74.2439735,
+   "tags": {
+    "addr:city": "Kolhapur",
+    "addr:housenumber": "Kukreja Nursing Home, 232 3b 2a",
+    "addr:postcode": "416003",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "proctology;piles;hernia;fissure;fistula;pilondal_sinus;varicose_veins",
+    "name": "Healing Hands Clinic - Kolhapur",
+    "opening_hours": "24/7",
+    "website": "https://www.healinghandsclinic.co.in/kolhapur/piles-fistula-hospital-in-tarabai-park/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13879563924,
+   "lat": 16.8311595,
+   "lon": 74.3213684,
+   "tags": {
+    "amenity": "hospital",
+    "check_date": "2026-05-25",
+    "healthcare": "hospital",
+    "name": "Nil Kamal Hospital"
+   }
+  },
+  {
+   "type": "way",
+   "id": 159943125,
+   "center": {
+    "lat": 16.6948428,
+    "lon": 74.2311026
+   },
+   "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Savitri Bai Phule Hospital",
+    "name:etymology:wikidata": "Q2645692"
+   }
+  },
+  {
+   "type": "way",
+   "id": 159943695,
+   "center": {
+    "lat": 16.6943895,
+    "lon": 74.2317121
+   },
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Subhash Road, Shivaji Udyam Nagar, Kolhapur",
+    "addr:postcode": "416002",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Karvir",
+    "amenity": "hospital",
+    "name": "Savitribai Phule Hospital",
+    "name:etymology:wikidata": "Q2645692",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "way",
+   "id": 407195172,
+   "center": {
+    "lat": 16.685505,
+    "lon": 74.4586131
+   },
+   "tags": {
+    "amenity": "police",
+    "building": "yes",
+    "name": "Shivaji Nagar Police Station"
+   }
+  },
+  {
+   "type": "way",
+   "id": 425516032,
+   "center": {
+    "lat": 16.6700385,
+    "lon": 74.234857
+   },
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Shenda Park Rd, Shenda Park, Kolhapur",
+    "addr:postcode": "416013",
+    "addr:state": "Maharashtra",
+    "addr:subdistrict": "Karvir",
+    "amenity": "hospital",
+    "description": "Medical Colleges Hospital",
+    "healthcare": "hospital",
+    "name": "Rajarshi Chhatrapati Shahu Maharaj Government Medical college and CPR hospital",
+    "name:etymology:wikidata": "Q7461433",
+    "source": "OpenGovernmentData",
+    "wikidata": "Q7273313"
+   }
+  },
+  {
+   "type": "way",
+   "id": 430028550,
+   "center": {
+    "lat": 16.7018519,
+    "lon": 74.2265878
+   },
+   "tags": {
+    "amenity": "hospital",
+    "name": "CPR Hospital",
+    "name:en": "Chhatrapati Pramila Raje Hospital",
+    "operator": "CPR Hospital"
+   }
+  },
+  {
+   "type": "way",
+   "id": 439644623,
+   "center": {
+    "lat": 16.6904109,
+    "lon": 74.2471016
+   },
+   "tags": {
+    "amenity": "police",
+    "building": "yes",
+    "name": "Rajarampuri Police Station"
+   }
+  },
+  {
+   "type": "way",
+   "id": 456572816,
+   "center": {
+    "lat": 16.2234932,
+    "lon": 74.3478305
+   },
+   "tags": {
+    "amenity": "police",
+    "building": "yes",
+    "name": "Gadhinglaj Police Station",
+    "name:kn": "ಆರಕ್ಷಕ ಠಾಣೆ"
+   }
+  },
+  {
+   "type": "way",
+   "id": 460733297,
+   "center": {
+    "lat": 16.1141831,
+    "lon": 74.2106342
+   },
+   "tags": {
+    "amenity": "hospital",
+    "name": "Hospital"
+   }
+  },
+  {
+   "type": "way",
+   "id": 460741218,
+   "center": {
+    "lat": 16.1203413,
+    "lon": 74.2097223
+   },
+   "tags": {
+    "amenity": "police",
+    "building": "yes",
+    "name": "Ajara Police Station"
+   }
+  },
+  {
+   "type": "way",
+   "id": 462554780,
+   "center": {
+    "lat": 16.6607541,
+    "lon": 74.2676455
+   },
+   "tags": {
+    "amenity": "police",
+    "building": "yes",
+    "name": "Highway Police Station"
+   }
+  },
+  {
+   "type": "way",
+   "id": 472463084,
+   "center": {
+    "lat": 16.6987253,
+    "lon": 74.2276315
+   },
+   "tags": {
+    "amenity": "police",
+    "building": "yes",
+    "name": "Laxmipuri Police Station"
+   }
+  },
+  {
+   "type": "way",
+   "id": 493174962,
+   "center": {
+    "lat": 16.8677288,
+    "lon": 74.1999913
+   },
+   "tags": {
+    "addr:district": "Kolhapur",
+    "addr:full": "Nivrutti Colony, Warananagar",
+    "addr:postcode": "416114",
+    "addr:state": "Maharashtra",
+    "amenity": "hospital",
+    "building": "school",
+    "name": "Galaxy Hospitals Ltd",
+    "source": "OpenGovernmentData"
+   }
+  },
+  {
+   "type": "way",
+   "id": 835654970,
+   "center": {
+    "lat": 16.2379984,
+    "lon": 74.2616995
+   },
+   "tags": {
+    "addr:city": "Uttur",
+    "addr:housenumber": "Jivanjyoti",
+    "addr:postcode": "416220",
+    "addr:street": "Main road",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Jivanjyoti",
+    "operator": "Sanjay Dhonukshe",
+    "operator:type": "private"
+   }
+  },
+  {
+   "type": "way",
+   "id": 835657039,
+   "center": {
+    "lat": 16.2367378,
+    "lon": 74.261681
+   },
+   "tags": {
+    "addr:city": "Uttur",
+    "addr:postcode": "416220",
+    "addr:street": "Main road",
+    "amenity": "hospital",
+    "description": "Phone : (02323) 254158, 254101",
+    "emergency": "no",
+    "healthcare": "hospital",
+    "healthcare:speciality": "consulting_physician",
+    "name": "Anusaya Clinic",
+    "operator": "Dr. V M Pakale",
+    "operator:type": "private"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1078344240,
+   "center": {
+    "lat": 16.7150046,
+    "lon": 74.2564496
+   },
+   "tags": {
+    "amenity": "hospital",
+    "name": "Dr. D. Y. Patil Hospital"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1334200528,
+   "center": {
+    "lat": 16.5772115,
+    "lon": 74.3143858
+   },
+   "tags": {
+    "addr:city": "Kagal",
+    "addr:district": "Kolhapur",
+    "addr:postcode": "416216",
+    "addr:street": "Main Road Kagal",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "ZP hospital",
+    "operator": "Government",
+    "operator:type": "government"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1334211047,
+   "center": {
+    "lat": 16.575969,
+    "lon": 74.3145747
+   },
+   "tags": {
+    "addr:city": "Kagal",
+    "addr:district": "Kolhapur",
+    "addr:postcode": "416216",
+    "addr:street": "Bazar Line Road",
+    "amenity": "police",
+    "building": "yes",
+    "name": "Kagal Police Station",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1335319227,
+   "center": {
+    "lat": 16.6657759,
+    "lon": 74.3977239
+   },
+   "tags": {
+    "addr:city": "Ingali",
+    "addr:district": "Kolhapur",
+    "addr:postcode": "416202",
+    "addr:street": "Near Grampanchyat Karayala",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "ZP hospital"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1369214090,
+   "center": {
+    "lat": 16.6817257,
+    "lon": 74.2520474
+   },
+   "tags": {
+    "addr:city": "Kolhapur",
+    "addr:district": "Kolhapur",
+    "addr:postcode": "416004",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Helth center"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1421788558,
+   "center": {
+    "lat": 16.8635069,
+    "lon": 74.1856044
+   },
+   "tags": {
+    "amenity": "police",
+    "building": "yes",
+    "name": "kodoli police station"
+   }
+  }
+ ]
+}
