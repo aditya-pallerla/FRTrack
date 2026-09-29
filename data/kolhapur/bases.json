@@ -1,0 +1,2405 @@
+[
+ {
+  "id": "Bn1375555224",
+  "name": "Juna Rajawada Police Station",
+  "kind": "police",
+  "lat": 16.6945019,
+  "lng": 74.2235288,
+  "road_node": "n277251701",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn1625538129",
+  "name": "Aadhar Hospital",
+  "kind": "hospital",
+  "lat": 16.6906209,
+  "lng": 74.2301501,
+  "road_node": "n1293265494",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn1625538147",
+  "name": "Dr.Garad Ayurvedic",
+  "kind": "hospital",
+  "lat": 16.6897011,
+  "lng": 74.2302252,
+  "road_node": "n1293265494",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn4298510209",
+  "name": "Shahupuri Police Station",
+  "kind": "police",
+  "lat": 16.7034691,
+  "lng": 74.2392729,
+  "road_node": "n1279929329",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn4583539394",
+  "name": "Janaki Multispeciality Hospital",
+  "kind": "hospital",
+  "lat": 16.6969197,
+  "lng": 74.2438012,
+  "road_node": "n12400844287",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7041087484",
+  "name": "Apple Hospitals and Research Institute Ltd",
+  "kind": "hospital",
+  "lat": 16.701583,
+  "lng": 74.2394954,
+  "road_node": "n1279435261",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7042946335",
+  "name": "Tamhankar Hospital",
+  "kind": "hospital",
+  "lat": 16.6899196,
+  "lng": 74.22475,
+  "road_node": "n4290802680",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7042962050",
+  "name": "Omkar Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6950996,
+  "lng": 74.2156348,
+  "road_node": "n7822834018",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7043041337",
+  "name": "Joshi Hospital and Dialysis Centre",
+  "kind": "hospital",
+  "lat": 16.7089054,
+  "lng": 74.2535515,
+  "road_node": "n4316705414",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7043071375",
+  "name": "Tagare Eye Hospital",
+  "kind": "hospital",
+  "lat": 16.6843474,
+  "lng": 74.2449225,
+  "road_node": "n1279469775",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7043252898",
+  "name": "Shri Siddhivinayak Heart Hospital",
+  "kind": "hospital",
+  "lat": 16.6884149,
+  "lng": 74.2372819,
+  "road_node": "n4314156757",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7043380380",
+  "name": "Vasan Eye Care Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.7057396,
+  "lng": 74.2464992,
+  "road_node": "n1619250526",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7043397392",
+  "name": "Shree Hospital Kodoli",
+  "kind": "hospital",
+  "lat": 16.8719738,
+  "lng": 74.1925341,
+  "road_node": "n4556595942",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7044461120",
+  "name": "Jadhav Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6760121,
+  "lng": 73.9724872,
+  "road_node": "n3013192675",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7044514549",
+  "name": "Purva Hospital",
+  "kind": "hospital",
+  "lat": 16.7000596,
+  "lng": 74.2488214,
+  "road_node": "n12400870778",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7044812735",
+  "name": "Awalekar Hospital",
+  "kind": "hospital",
+  "lat": 16.777603,
+  "lng": 74.5542251,
+  "road_node": "n1705768279",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7045168610",
+  "name": "Aastha Hospital",
+  "kind": "hospital",
+  "lat": 16.7036601,
+  "lng": 74.2360172,
+  "road_node": "n4086146066",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7045277711",
+  "name": "Pragati Netra Rugnalaya",
+  "kind": "hospital",
+  "lat": 16.6937986,
+  "lng": 74.2444628,
+  "road_node": "n1287621431",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7046433791",
+  "name": "Dhanwantri Fracture, Orthopaedic and Arthroscopy Centre",
+  "kind": "hospital",
+  "lat": 16.694473,
+  "lng": 74.2422903,
+  "road_node": "n1287621431",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7047688241",
+  "name": "Konark Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6962695,
+  "lng": 74.2744526,
+  "road_node": "n1618861343",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7047847067",
+  "name": "Ent Hospital (Dr. Balashed Patil)",
+  "kind": "hospital",
+  "lat": 16.7006428,
+  "lng": 74.2278627,
+  "road_node": "n1265652822",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7047905619",
+  "name": "Gurukrupa Hospital",
+  "kind": "hospital",
+  "lat": 16.6945206,
+  "lng": 74.2425504,
+  "road_node": "n1287621431",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7048054875",
+  "name": "Lalla Hospital",
+  "kind": "hospital",
+  "lat": 16.6811245,
+  "lng": 74.2111904,
+  "road_node": "n9859499740",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7048131909",
+  "name": "Niramaya Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6893693,
+  "lng": 74.4705798,
+  "road_node": "n4101289465",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7048261208",
+  "name": "Sushil Datta Hospital",
+  "kind": "hospital",
+  "lat": 16.6834877,
+  "lng": 74.4726815,
+  "road_node": "n276883273",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7048439601",
+  "name": "Yashwant Dharmartha Ayurvedic Rugnalay",
+  "kind": "hospital",
+  "lat": 16.8734602,
+  "lng": 74.1891919,
+  "road_node": "n6164422599",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7048489112",
+  "name": "Bhavani Maternity and Surgical Icu",
+  "kind": "hospital",
+  "lat": 16.230138,
+  "lng": 74.3612004,
+  "road_node": "n4520203581",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7048616143",
+  "name": "Gayatri Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6764033,
+  "lng": 74.2059899,
+  "road_node": "n1937923802",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7048944234",
+  "name": "Children Surgical Hospital",
+  "kind": "hospital",
+  "lat": 16.695186,
+  "lng": 74.2450704,
+  "road_node": "n1287621431",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7049074554",
+  "name": "Shikalgar Orthopedic and Pediatric Hospital",
+  "kind": "hospital",
+  "lat": 16.3175125,
+  "lng": 74.1443527,
+  "road_node": "n12388283237",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7049148942",
+  "name": "Tejomaya Netra Rugnalaya",
+  "kind": "hospital",
+  "lat": 16.6984475,
+  "lng": 74.2194767,
+  "road_node": "n1282553323",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7049166894",
+  "name": "Shri Ram Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6981418,
+  "lng": 74.2469533,
+  "road_node": "n4248261227",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7049226890",
+  "name": "Lt Kedari Redkar Charitable Hospital and Research",
+  "kind": "hospital",
+  "lat": 16.2561019,
+  "lng": 74.3554154,
+  "road_node": "n4520205368",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7049331705",
+  "name": "Shanti Maternity Hospital",
+  "kind": "hospital",
+  "lat": 16.7775619,
+  "lng": 74.5536049,
+  "road_node": "n1705768279",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7049641560",
+  "name": "Ganga Hospital Infertility and Laproscopy Center",
+  "kind": "hospital",
+  "lat": 16.5804843,
+  "lng": 74.3103674,
+  "road_node": "n3175128423",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7049885385",
+  "name": "Omkar Medical Charitable Trust (Magdum Hospital)",
+  "kind": "hospital",
+  "lat": 16.2200792,
+  "lng": 74.3494847,
+  "road_node": "n3156058688",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7050460736",
+  "name": "Sona Maternity and Nursing Home",
+  "kind": "hospital",
+  "lat": 16.696134,
+  "lng": 74.2151087,
+  "road_node": "n7822834018",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7051713430",
+  "name": "Janani Maternity and Nursing Home",
+  "kind": "hospital",
+  "lat": 16.6946105,
+  "lng": 74.2453815,
+  "road_node": "n674647767",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7051845877",
+  "name": "Shree Kamakshi Hospital",
+  "kind": "hospital",
+  "lat": 16.699351,
+  "lng": 74.2375137,
+  "road_node": "n13351705491",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7052243968",
+  "name": "Birnale Hospital",
+  "kind": "hospital",
+  "lat": 16.7792722,
+  "lng": 74.5578991,
+  "road_node": "n1705853506",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7052261311",
+  "name": "Shree Hospital",
+  "kind": "hospital",
+  "lat": 16.7774965,
+  "lng": 74.5535043,
+  "road_node": "n1705768279",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7052389508",
+  "name": "Vardhan Children Hospital",
+  "kind": "hospital",
+  "lat": 16.7008875,
+  "lng": 74.2423493,
+  "road_node": "n1404484187",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7052995673",
+  "name": "Hattarki Hospital",
+  "kind": "hospital",
+  "lat": 16.2210875,
+  "lng": 74.3490274,
+  "road_node": "n3156058688",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7053000527",
+  "name": "Pishawikar Hospital",
+  "kind": "hospital",
+  "lat": 16.69724,
+  "lng": 74.2204108,
+  "road_node": "n1282553323",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7053068896",
+  "name": "Gargoti Maternity Home",
+  "kind": "hospital",
+  "lat": 16.3173092,
+  "lng": 74.1445988,
+  "road_node": "n12388283241",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7053084717",
+  "name": "Pattan Shetti",
+  "kind": "hospital",
+  "lat": 16.2218318,
+  "lng": 74.3483515,
+  "road_node": "n3156058688",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7053294803",
+  "name": "Swami Hospital",
+  "kind": "hospital",
+  "lat": 16.7008059,
+  "lng": 74.2327054,
+  "road_node": "n277250884",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7054168465",
+  "name": "Deshpande Orthopaedic Hospital",
+  "kind": "hospital",
+  "lat": 16.6888677,
+  "lng": 74.2223279,
+  "road_node": "n1282553514",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7054251302",
+  "name": "Ankur Eye Hospital Laser and Phaco Centre - Gadhinglaj",
+  "kind": "hospital",
+  "lat": 16.2204437,
+  "lng": 74.3518189,
+  "road_node": "n1350161344",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7054905948",
+  "name": "Warana Institute Of Uro - Surgery",
+  "kind": "hospital",
+  "lat": 16.6995316,
+  "lng": 74.2396429,
+  "road_node": "n1279435261",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7054976488",
+  "name": "Drishtideep Netraseva (Phaco and Eye Care Centre) - Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6961455,
+  "lng": 74.226252,
+  "road_node": "n1722453276",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7055244767",
+  "name": "Vijay Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.7013647,
+  "lng": 74.233321,
+  "road_node": "n277250884",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7055382994",
+  "name": "Aster Aadhar Hospital",
+  "kind": "hospital",
+  "lat": 16.6853613,
+  "lng": 74.2380148,
+  "road_node": "n4531447395",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7059215454",
+  "name": "Guru Prasad Hospital",
+  "kind": "hospital",
+  "lat": 16.7004334,
+  "lng": 74.2153247,
+  "road_node": "n1282574726",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7062356508",
+  "name": "Parvati Hospital, Kale",
+  "kind": "hospital",
+  "lat": 16.6973373,
+  "lng": 74.2442246,
+  "road_node": "n12400844287",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7062539952",
+  "name": "Apex Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.7039915,
+  "lng": 74.246736,
+  "road_node": "n1619250526",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7063077055",
+  "name": "Siddhi Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6922873,
+  "lng": 74.1956024,
+  "road_node": "n7829428456",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7063899578",
+  "name": "Dr.Amar Kulkarni",
+  "kind": "hospital",
+  "lat": 16.6803839,
+  "lng": 74.4643564,
+  "road_node": "n277087206",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7063909945",
+  "name": "Apple Saraswati Multispeciality Hospital",
+  "kind": "hospital",
+  "lat": 16.7224375,
+  "lng": 74.2545587,
+  "road_node": "n4258167507",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7064366724",
+  "name": "Mudhale Nursing Home and Kolhapur Endoscopy Centre",
+  "kind": "hospital",
+  "lat": 16.7062195,
+  "lng": 74.2440364,
+  "road_node": "n4315573333",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7064879358",
+  "name": "Tara Children Hospital",
+  "kind": "hospital",
+  "lat": 16.2197457,
+  "lng": 74.3515554,
+  "road_node": "n1350161344",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7064943439",
+  "name": "Sangeeta Hospital",
+  "kind": "hospital",
+  "lat": 16.6946259,
+  "lng": 74.2153206,
+  "road_node": "n1282553517",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7065561553",
+  "name": "Sanjayot Netralaya",
+  "kind": "hospital",
+  "lat": 16.6911922,
+  "lng": 74.4532929,
+  "road_node": "n4409427547",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7065820617",
+  "name": "Patki Hospital",
+  "kind": "hospital",
+  "lat": 16.700427,
+  "lng": 74.239136,
+  "road_node": "n1279435261",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7066371678",
+  "name": "Shri Sai Cardiac Center (Unit Of Mahalaxmi Hrudayalaya) - Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6954461,
+  "lng": 74.245519,
+  "road_node": "n4248261227",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7066374643",
+  "name": "Sumitra Hospital",
+  "kind": "hospital",
+  "lat": 16.6769998,
+  "lng": 74.5919608,
+  "road_node": "n3156288555",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7066374649",
+  "name": "Ishan Hospital",
+  "kind": "hospital",
+  "lat": 16.7166872,
+  "lng": 74.2413609,
+  "road_node": "n1804670653",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7066374661",
+  "name": "Vairat Hospital",
+  "kind": "hospital",
+  "lat": 16.7005978,
+  "lng": 74.2278667,
+  "road_node": "n1265652822",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7066497770",
+  "name": "Shree Datta Shetkari Sahakari Sakhar Karkhana Ltd",
+  "kind": "hospital",
+  "lat": 16.7511787,
+  "lng": 74.5888115,
+  "road_node": "n4322757862",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7066505702",
+  "name": "Masai Medical Foundation, Shri Swami Samarath Hosp",
+  "kind": "hospital",
+  "lat": 16.6981251,
+  "lng": 74.2246715,
+  "road_node": "n4287547238",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7066505727",
+  "name": "Kapale Hospital - Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6998553,
+  "lng": 74.2417042,
+  "road_node": "n4323331940",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7066505762",
+  "name": "Rukad Fracture Accident and Orthopaedic Hospital",
+  "kind": "hospital",
+  "lat": 16.5804971,
+  "lng": 74.3099121,
+  "road_node": "n3175128423",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7066847634",
+  "name": "Raghunathrao Nimbalkar Memorial Hospital",
+  "kind": "hospital",
+  "lat": 16.694789,
+  "lng": 74.2165115,
+  "road_node": "n7822834018",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7067113510",
+  "name": "Yamuna Surgicals",
+  "kind": "hospital",
+  "lat": 16.6904908,
+  "lng": 74.4550605,
+  "road_node": "n4409427546",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7067114341",
+  "name": "Ashwini Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.7012157,
+  "lng": 74.2312033,
+  "road_node": "n6796350348",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7067938898",
+  "name": "Om Sai Children's Hospital and Paediatric Pulmonology& flexible bronchoscopy Clinic",
+  "kind": "hospital",
+  "lat": 16.7018618,
+  "lng": 74.232637,
+  "road_node": "n4315650893",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7068114771",
+  "name": "Desai Hospital",
+  "kind": "hospital",
+  "lat": 16.7010615,
+  "lng": 74.2356209,
+  "road_node": "n4526284018",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7068118361",
+  "name": "Gangotri Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6846059,
+  "lng": 74.2232117,
+  "road_node": "n7828855852",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7068218621",
+  "name": "Ganga Hospital",
+  "kind": "hospital",
+  "lat": 16.2200857,
+  "lng": 74.3499018,
+  "road_node": "n3156058688",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7069632820",
+  "name": "Sanjeevani Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.9049286,
+  "lng": 73.9476137,
+  "road_node": "n6578463852",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7069632825",
+  "name": "Accident Fracture Orth and Surgical Hospital",
+  "kind": "hospital",
+  "lat": 16.6942315,
+  "lng": 74.4493984,
+  "road_node": "n4101411057",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7070552655",
+  "name": "Shraddha Clinic and Hospital",
+  "kind": "hospital",
+  "lat": 16.6971937,
+  "lng": 74.243223,
+  "road_node": "n12400844287",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7072576012",
+  "name": "Dr Mahapure Hospital",
+  "kind": "hospital",
+  "lat": 16.8336619,
+  "lng": 74.3192629,
+  "road_node": "n6341354385",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7073765596",
+  "name": "Safalya Fertility, Endoscopy and Intensive Medical Care Centre- Ichalkaranji",
+  "kind": "hospital",
+  "lat": 16.6840131,
+  "lng": 74.4739258,
+  "road_node": "n4288082524",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7073879391",
+  "name": "Western India Institute Of Neuro Sciences - Kolhapur",
+  "kind": "hospital",
+  "lat": 16.7121467,
+  "lng": 74.227109,
+  "road_node": "n4316674638",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7073909320",
+  "name": "Kelavkar Medical Centre and Critical Care Unit",
+  "kind": "hospital",
+  "lat": 16.7116997,
+  "lng": 74.2400721,
+  "road_node": "n11372557497",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7073949868",
+  "name": "Kotkar Hospital",
+  "kind": "hospital",
+  "lat": 16.6921242,
+  "lng": 74.2274456,
+  "road_node": "n1265652636",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7073961701",
+  "name": "Kalp-Deep Hospital",
+  "kind": "hospital",
+  "lat": 16.6880507,
+  "lng": 74.4658182,
+  "road_node": "n4101289474",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7074576492",
+  "name": "Ganesh Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6947884,
+  "lng": 74.2307977,
+  "road_node": "n4260315691",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7075571810",
+  "name": "Kolhapur Institute Of Orthopaedics and Trauma",
+  "kind": "hospital",
+  "lat": 16.7059915,
+  "lng": 74.2437386,
+  "road_node": "n1279911906",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7076529373",
+  "name": "Chougule Hospital",
+  "kind": "hospital",
+  "lat": 16.7001701,
+  "lng": 74.2361447,
+  "road_node": "n1280212087",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7076529378",
+  "name": "City Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6941056,
+  "lng": 74.2430145,
+  "road_node": "n1287621431",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7079381567",
+  "name": "Lotus Hospital and Research Centre - Kolhapur",
+  "kind": "hospital",
+  "lat": 16.693015,
+  "lng": 74.2449886,
+  "road_node": "n674647767",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7079665740",
+  "name": "Sanjeevan Hospital, Jaysingpur",
+  "kind": "hospital",
+  "lat": 16.7833579,
+  "lng": 74.5563166,
+  "road_node": "n2986460385",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7080205186",
+  "name": "Jaya Urology Hospital",
+  "kind": "hospital",
+  "lat": 16.7058309,
+  "lng": 74.2426845,
+  "road_node": "n1279911906",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7080205196",
+  "name": "Kai. Suresh Deshpande Memo.Orthopaedic Hospital",
+  "kind": "hospital",
+  "lat": 16.2258482,
+  "lng": 74.3474342,
+  "road_node": "n4506313215",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7080205272",
+  "name": "Saideep Fracture and Accident Hospital",
+  "kind": "hospital",
+  "lat": 16.7050474,
+  "lng": 74.2431767,
+  "road_node": "n1279911906",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7080269611",
+  "name": "Chirayu Hospital",
+  "kind": "hospital",
+  "lat": 16.6870069,
+  "lng": 74.243968,
+  "road_node": "n4247987684",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7080386015",
+  "name": "Om Swaroop Hospital",
+  "kind": "hospital",
+  "lat": 16.9212358,
+  "lng": 73.9316013,
+  "road_node": "n3080374464",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7081965728",
+  "name": "Siddhagiri Hospital",
+  "kind": "hospital",
+  "lat": 16.6140005,
+  "lng": 74.2576338,
+  "road_node": "n6539043745",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7082370216",
+  "name": "Katkar Maternity And Surgical Hospital, Ichalkaranji",
+  "kind": "hospital",
+  "lat": 16.6796626,
+  "lng": 74.4654018,
+  "road_node": "n3017864218",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7082370221",
+  "name": "Shree Maternity Home",
+  "kind": "hospital",
+  "lat": 16.7760519,
+  "lng": 74.557026,
+  "road_node": "n1705859071",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7082370251",
+  "name": "Maher Maternity Home , Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6942161,
+  "lng": 74.2436609,
+  "road_node": "n1287621431",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7082370256",
+  "name": "Keswani Fracture And Accident Hospital",
+  "kind": "hospital",
+  "lat": 16.7089599,
+  "lng": 74.2814733,
+  "road_node": "n1612022832",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7082579574",
+  "name": "Shivshakti Hospital",
+  "kind": "hospital",
+  "lat": 16.7305431,
+  "lng": 74.2134726,
+  "road_node": "n1299425937",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7083324278",
+  "name": "Karna Hospital",
+  "kind": "hospital",
+  "lat": 16.6961044,
+  "lng": 74.2165102,
+  "road_node": "n3047643330",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7085422799",
+  "name": "Sneh Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6976369,
+  "lng": 74.2429836,
+  "road_node": "n12400844287",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7085422845",
+  "name": "Child Hospital and Premature Care Centre / Niramay Bal Rugnalay",
+  "kind": "hospital",
+  "lat": 16.700874,
+  "lng": 74.234249,
+  "road_node": "n4526284018",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7085731331",
+  "name": "Pitrubal Hospital",
+  "kind": "hospital",
+  "lat": 16.7299382,
+  "lng": 74.2129234,
+  "road_node": "n4581108800",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7085731365",
+  "name": "Lokmanya Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.7048187,
+  "lng": 74.2415915,
+  "road_node": "n1619256515",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7086092384",
+  "name": "Sonkamal Orthopedic Hospital",
+  "kind": "hospital",
+  "lat": 16.83118,
+  "lng": 74.3213658,
+  "road_node": "n7044449291",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7086499124",
+  "name": "Ramkrishna Hospital",
+  "kind": "hospital",
+  "lat": 16.5348004,
+  "lng": 74.1050456,
+  "road_node": "n11812276614",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7086941268",
+  "name": "Tara Hospital",
+  "kind": "hospital",
+  "lat": 16.6994353,
+  "lng": 74.2278787,
+  "road_node": "n1265652822",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7086946252",
+  "name": "Kusum Maternity and Medicare",
+  "kind": "hospital",
+  "lat": 16.6790479,
+  "lng": 74.2313971,
+  "road_node": "n12505591141",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7087131484",
+  "name": "Shree Venkateshwara Hospital",
+  "kind": "hospital",
+  "lat": 16.694358,
+  "lng": 74.2312949,
+  "road_node": "n4260315691",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7087491726",
+  "name": "Vinay Jyoti Hospital",
+  "kind": "hospital",
+  "lat": 16.6772576,
+  "lng": 74.5948304,
+  "road_node": "n3156288572",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642240",
+  "name": "Rural Hospital, Solankur",
+  "kind": "hospital",
+  "lat": 16.4151084,
+  "lng": 74.0497678,
+  "road_node": "n7031910854",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642249",
+  "name": "Seva hospital",
+  "kind": "hospital",
+  "lat": 16.7261914,
+  "lng": 74.244089,
+  "road_node": "n7832123076",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642256",
+  "name": "Isolation Government Hospital",
+  "kind": "hospital",
+  "lat": 16.6768417,
+  "lng": 74.2312841,
+  "road_node": "n12505591141",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642261",
+  "name": "Thikpurli, Government Hospital",
+  "kind": "hospital",
+  "lat": 16.5043864,
+  "lng": 74.1182915,
+  "road_node": "n7829675434",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642262",
+  "name": "Rural Hospital, Panhala",
+  "kind": "hospital",
+  "lat": 16.810208,
+  "lng": 74.107176,
+  "road_node": "n1333682998",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642273",
+  "name": "Rural Hospital Gargoti",
+  "kind": "hospital",
+  "lat": 16.315034,
+  "lng": 74.135077,
+  "road_node": "n1844862013",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642276",
+  "name": "Rural Hospital, Radhanagari",
+  "kind": "hospital",
+  "lat": 16.411856,
+  "lng": 73.995548,
+  "road_node": "n3068730879",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642289",
+  "name": "Rural Hospital, Nesari",
+  "kind": "hospital",
+  "lat": 16.057653,
+  "lng": 74.321181,
+  "road_node": "n2013206795",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642295",
+  "name": "Rural Hospital, Ajara",
+  "kind": "hospital",
+  "lat": 16.1065592,
+  "lng": 74.1997341,
+  "road_node": "n4563094774",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642303",
+  "name": "Rural Hospital Gaganbawada",
+  "kind": "hospital",
+  "lat": 16.548314,
+  "lng": 73.838974,
+  "road_node": "n3270613961",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642304",
+  "name": "Balwantrao Yadav Hospital, Peth Vadgaon",
+  "kind": "hospital",
+  "lat": 16.835267,
+  "lng": 74.315172,
+  "road_node": "n3160710750",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642314",
+  "name": "Rural Hospital, Khupire",
+  "kind": "hospital",
+  "lat": 16.707148,
+  "lng": 74.150412,
+  "road_node": "n7825314441",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642337",
+  "name": "Rural Hospital, Pargaon",
+  "kind": "hospital",
+  "lat": 16.860552,
+  "lng": 74.232577,
+  "road_node": "n7034510841",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642354",
+  "name": "Rural Hospital, Murgud",
+  "kind": "hospital",
+  "lat": 16.396917,
+  "lng": 74.190322,
+  "road_node": "n6751969381",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642360",
+  "name": "SDH KODOLI",
+  "kind": "hospital",
+  "lat": 16.8734959,
+  "lng": 74.1897933,
+  "road_node": "n6164422599",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642361",
+  "name": "SDH Gadhinglaj",
+  "kind": "hospital",
+  "lat": 16.223235,
+  "lng": 74.34472,
+  "road_node": "n3156058693",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642369",
+  "name": "Firangai Hospital",
+  "kind": "hospital",
+  "lat": 16.6860174,
+  "lng": 74.2205037,
+  "road_node": "n4461569205",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642398",
+  "name": "Civil Sub Hospital, Gandhinagar",
+  "kind": "hospital",
+  "lat": 16.709278,
+  "lng": 74.301001,
+  "road_node": "n4189319815",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642402",
+  "name": "Rural Hospital, Malkapur",
+  "kind": "hospital",
+  "lat": 16.9226761,
+  "lng": 73.9290283,
+  "road_node": "n3080374464",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642405",
+  "name": "IGM Hospital, Ichalkaranji",
+  "kind": "hospital",
+  "lat": 16.685731,
+  "lng": 74.457653,
+  "road_node": "n4092330585",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642416",
+  "name": "Rural Hospital, Chandgad",
+  "kind": "hospital",
+  "lat": 15.9463,
+  "lng": 74.183744,
+  "road_node": "n2106001198",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642417",
+  "name": "Rural Hospital KAGAL",
+  "kind": "hospital",
+  "lat": 16.592551,
+  "lng": 74.310605,
+  "road_node": "n4464103254",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642421",
+  "name": "Rural Hospital Hatkanangale",
+  "kind": "hospital",
+  "lat": 16.7524288,
+  "lng": 74.4359862,
+  "road_node": "n6538525582",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7226642423",
+  "name": "Civil Hospital Shirol",
+  "kind": "hospital",
+  "lat": 16.7366999,
+  "lng": 74.6043656,
+  "road_node": "n3156288648",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7625325591",
+  "name": "Government Hospital, Abdul Lat",
+  "kind": "hospital",
+  "lat": 16.6583608,
+  "lng": 74.5103931,
+  "road_node": "n6059493867",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338021",
+  "name": "Shivkrupa Multispeciality Hospital",
+  "kind": "hospital",
+  "lat": 15.9451521,
+  "lng": 74.1844719,
+  "road_node": "n2013202497",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338023",
+  "name": "Hridaya Multyspeciality Hospital",
+  "kind": "hospital",
+  "lat": 16.7426894,
+  "lng": 74.3207172,
+  "road_node": "n6532183646",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338027",
+  "name": "Dr. Abhay Kudache Hospital",
+  "kind": "hospital",
+  "lat": 16.6775285,
+  "lng": 74.4661487,
+  "road_node": "n4097130103",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338028",
+  "name": "Sakharpe Hospital",
+  "kind": "hospital",
+  "lat": 16.68442,
+  "lng": 74.462535,
+  "road_node": "n277665341",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338034",
+  "name": "Shivkrupa Modern Hospital",
+  "kind": "hospital",
+  "lat": 16.218424,
+  "lng": 74.350515,
+  "road_node": "n3156058688",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338035",
+  "name": "Maher Hospital",
+  "kind": "hospital",
+  "lat": 16.6873168,
+  "lng": 74.4706216,
+  "road_node": "n4101289465",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338036",
+  "name": "Borgave Hospital",
+  "kind": "hospital",
+  "lat": 16.681905,
+  "lng": 74.4661355,
+  "road_node": "n4097182090",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338037",
+  "name": "Dr. Pathan Hospital",
+  "kind": "hospital",
+  "lat": 16.6837,
+  "lng": 74.461296,
+  "road_node": "n277665341",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338039",
+  "name": "Dr. Kumbhar Hospital",
+  "kind": "hospital",
+  "lat": 16.6768164,
+  "lng": 74.473412,
+  "road_node": "n727290287",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338041",
+  "name": "Banashree Nursing Home",
+  "kind": "hospital",
+  "lat": 16.2240488,
+  "lng": 74.3496232,
+  "road_node": "n1350161344",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338042",
+  "name": "Ashwini Eye Hospital",
+  "kind": "hospital",
+  "lat": 16.6802591,
+  "lng": 74.4643868,
+  "road_node": "n277087206",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338044",
+  "name": "Parvati ENT Hospital",
+  "kind": "hospital",
+  "lat": 16.2211035,
+  "lng": 74.3519982,
+  "road_node": "n1350161344",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338045",
+  "name": "Arihant Hospital",
+  "kind": "hospital",
+  "lat": 16.6860558,
+  "lng": 74.4610597,
+  "road_node": "n277665341",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338046",
+  "name": "Aai Hospital",
+  "kind": "hospital",
+  "lat": 16.685467,
+  "lng": 74.4727334,
+  "road_node": "n3017864214",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338051",
+  "name": "Dr. Deshpande Nursing Home",
+  "kind": "hospital",
+  "lat": 16.1130311,
+  "lng": 74.2122327,
+  "road_node": "n2519170310",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338053",
+  "name": "Kalyanshetty Hospital",
+  "kind": "hospital",
+  "lat": 16.22291,
+  "lng": 74.346826,
+  "road_node": "n3156058693",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338054",
+  "name": "City Care Hospital",
+  "kind": "hospital",
+  "lat": 16.218471,
+  "lng": 74.3517476,
+  "road_node": "n3156058688",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338056",
+  "name": "Purvapunyai Hospital",
+  "kind": "hospital",
+  "lat": 16.665087,
+  "lng": 74.2697831,
+  "road_node": "n1404484140",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338057",
+  "name": "Dr. Ashok Kajave Children Hospital and Maternity Home",
+  "kind": "hospital",
+  "lat": 16.6898293,
+  "lng": 74.456499,
+  "road_node": "n7811960757",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338058",
+  "name": "Lata Surgical Hospital",
+  "kind": "hospital",
+  "lat": 16.678675,
+  "lng": 74.464792,
+  "road_node": "n277527212",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338059",
+  "name": "Dnyandeep Nursing Home & General Hospital",
+  "kind": "hospital",
+  "lat": 16.7347091,
+  "lng": 74.2436718,
+  "road_node": "n4089757350",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338062",
+  "name": "Kesarkar Hospital",
+  "kind": "hospital",
+  "lat": 16.2237055,
+  "lng": 74.3520208,
+  "road_node": "n1259542334",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338064",
+  "name": "Dangare Hospital",
+  "kind": "hospital",
+  "lat": 16.6824408,
+  "lng": 74.4651787,
+  "road_node": "n277087194",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338066",
+  "name": "Desai Hospital",
+  "kind": "hospital",
+  "lat": 16.221319,
+  "lng": 74.351582,
+  "road_node": "n1350161344",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338067",
+  "name": "Dr. Arvind Lande Surgical, Maternity and Urology Hospital",
+  "kind": "hospital",
+  "lat": 16.683092,
+  "lng": 74.466716,
+  "road_node": "n3017864174",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338074",
+  "name": "Tara Nursing Home",
+  "kind": "hospital",
+  "lat": 16.2205978,
+  "lng": 74.3478572,
+  "road_node": "n3156058688",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338076",
+  "name": "Kaulavkar Hospital & Dental Care",
+  "kind": "hospital",
+  "lat": 16.578241,
+  "lng": 74.315064,
+  "road_node": "n3175136493",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338077",
+  "name": "Sidnale Hospital",
+  "kind": "hospital",
+  "lat": 16.6850626,
+  "lng": 74.4569102,
+  "road_node": "n4092330585",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338080",
+  "name": "Dr. Hedgewar Hospital SevaBharati",
+  "kind": "hospital",
+  "lat": 16.6812728,
+  "lng": 74.4702332,
+  "road_node": "n3017841358",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338082",
+  "name": "Ujjwala Hospital",
+  "kind": "hospital",
+  "lat": 16.9034099,
+  "lng": 73.948338,
+  "road_node": "n6578463852",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338083",
+  "name": "Jeevandhara Hospital",
+  "kind": "hospital",
+  "lat": 16.412399,
+  "lng": 74.139415,
+  "road_node": "n3068731008",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338084",
+  "name": "Magdum Hospital",
+  "kind": "hospital",
+  "lat": 16.5811069,
+  "lng": 74.3107093,
+  "road_node": "n3175128423",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338087",
+  "name": "Sukhayu Hospital",
+  "kind": "hospital",
+  "lat": 16.221173,
+  "lng": 74.3508018,
+  "road_node": "n1350161344",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338090",
+  "name": "Pattanshetti Hospital",
+  "kind": "hospital",
+  "lat": 16.2197432,
+  "lng": 74.3464415,
+  "road_node": "n3156058688",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338091",
+  "name": "Sainath Hospital",
+  "kind": "hospital",
+  "lat": 16.7233437,
+  "lng": 74.3563375,
+  "road_node": "n6533691024",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338097",
+  "name": "Athaayu Hospital",
+  "kind": "hospital",
+  "lat": 16.673322,
+  "lng": 74.27176,
+  "road_node": "n1404484166",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338100",
+  "name": "Hattarki Hospital",
+  "kind": "hospital",
+  "lat": 16.1691501,
+  "lng": 74.4670426,
+  "road_node": "n12356865310",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338102",
+  "name": "Ligade Hospital",
+  "kind": "hospital",
+  "lat": 16.6984956,
+  "lng": 74.4522093,
+  "road_node": "n4101411069",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338103",
+  "name": "Narayan Hospital",
+  "kind": "hospital",
+  "lat": 16.5737522,
+  "lng": 74.3162472,
+  "road_node": "n4092312664",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338105",
+  "name": "Alliance Multispeciality Hospital",
+  "kind": "hospital",
+  "lat": 16.681561,
+  "lng": 74.447807,
+  "road_node": "n4102293139",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338107",
+  "name": "Venkateshwara Hospital",
+  "kind": "hospital",
+  "lat": 16.3169796,
+  "lng": 74.1431682,
+  "road_node": "n12388283237",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338111",
+  "name": "Pednekar Hospital",
+  "kind": "hospital",
+  "lat": 16.220766,
+  "lng": 74.351586,
+  "road_node": "n1350161344",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338113",
+  "name": "B S Patil Hospital",
+  "kind": "hospital",
+  "lat": 16.2193726,
+  "lng": 74.3482985,
+  "road_node": "n3156058688",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338115",
+  "name": "Pink Lotus Hospital",
+  "kind": "hospital",
+  "lat": 16.6964375,
+  "lng": 74.446251,
+  "road_node": "n7811963890",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338116",
+  "name": "Nityashradha Hospital",
+  "kind": "hospital",
+  "lat": 16.112461,
+  "lng": 74.211721,
+  "road_node": "n2519170310",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643338117",
+  "name": "Sanjeevani Hospital",
+  "kind": "hospital",
+  "lat": 16.5867961,
+  "lng": 74.3068233,
+  "road_node": "n3175136507",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632426",
+  "name": "Kolhapur Kidney Care & Super Speciality Hospital",
+  "kind": "hospital",
+  "lat": 16.701221,
+  "lng": 74.22922,
+  "road_node": "n1455235570",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632427",
+  "name": "Devdhar Hospital",
+  "kind": "hospital",
+  "lat": 16.6970733,
+  "lng": 74.2500391,
+  "road_node": "n1282730798",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632428",
+  "name": "Om Hospital",
+  "kind": "hospital",
+  "lat": 16.6720909,
+  "lng": 74.2178235,
+  "road_node": "n7825780905",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632431",
+  "name": "Antrang Hospital",
+  "kind": "hospital",
+  "lat": 16.713607,
+  "lng": 74.231369,
+  "road_node": "n4316674699",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632432",
+  "name": "ESIC Hospital, Kamgar",
+  "kind": "hospital",
+  "lat": 16.718374,
+  "lng": 74.247845,
+  "road_node": "n4330494079",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632435",
+  "name": "Akshay Hospital",
+  "kind": "hospital",
+  "lat": 16.693557,
+  "lng": 74.1975519,
+  "road_node": "n1943752041",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632437",
+  "name": "Mauli Maternity Hospital",
+  "kind": "hospital",
+  "lat": 16.70014,
+  "lng": 74.2236106,
+  "road_node": "n1282553442",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632438",
+  "name": "Vyankateshwara Hospital",
+  "kind": "hospital",
+  "lat": 16.6946312,
+  "lng": 74.2314454,
+  "road_node": "n4260315691",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632440",
+  "name": "Kulkarni Children's Hospital",
+  "kind": "hospital",
+  "lat": 16.6890832,
+  "lng": 74.2394488,
+  "road_node": "n1287621442",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632441",
+  "name": "Chintamani Hospital",
+  "kind": "hospital",
+  "lat": 16.695726,
+  "lng": 74.217462,
+  "road_node": "n3047643330",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632443",
+  "name": "Shri Swami Samarth Hospital",
+  "kind": "hospital",
+  "lat": 16.692616,
+  "lng": 74.196858,
+  "road_node": "n1943752041",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632446",
+  "name": "Tulip Traumacare & Multispeciality Hospital",
+  "kind": "hospital",
+  "lat": 16.707829,
+  "lng": 74.253965,
+  "road_node": "n4316705414",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632447",
+  "name": "Sahyadri Hospital",
+  "kind": "hospital",
+  "lat": 16.6898446,
+  "lng": 74.1734233,
+  "road_node": "n245637849",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632448",
+  "name": "Dr. Appasaheb Varute Memorial Hospital",
+  "kind": "hospital",
+  "lat": 16.6871328,
+  "lng": 74.249851,
+  "road_node": "n4247987688",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632450",
+  "name": "North Star Superspecialty Hospital",
+  "kind": "hospital",
+  "lat": 16.6837522,
+  "lng": 74.2294215,
+  "road_node": "n7828407386",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632451",
+  "name": "Dr. Vasgadekar Hospital",
+  "kind": "hospital",
+  "lat": 16.700744,
+  "lng": 74.228007,
+  "road_node": "n1265652822",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632455",
+  "name": "Patil Nursing Home",
+  "kind": "hospital",
+  "lat": 16.690445,
+  "lng": 74.231695,
+  "road_node": "n7828407321",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632458",
+  "name": "Surya Hospital",
+  "kind": "hospital",
+  "lat": 16.7011775,
+  "lng": 74.2292023,
+  "road_node": "n1455235570",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632460",
+  "name": "Ganga Hospital",
+  "kind": "hospital",
+  "lat": 16.696383,
+  "lng": 74.217107,
+  "road_node": "n3047643330",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632464",
+  "name": "Manorama Hospital",
+  "kind": "hospital",
+  "lat": 16.6889807,
+  "lng": 74.2430272,
+  "road_node": "n1287621442",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632465",
+  "name": "Mahalaxmi Hospitals",
+  "kind": "hospital",
+  "lat": 16.6918385,
+  "lng": 74.24552,
+  "road_node": "n4323331033",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632466",
+  "name": "Sunrise Hospital",
+  "kind": "hospital",
+  "lat": 16.696693,
+  "lng": 74.244169,
+  "road_node": "n12400844287",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632467",
+  "name": "Shree Hospital",
+  "kind": "hospital",
+  "lat": 16.6758961,
+  "lng": 74.216116,
+  "road_node": "n4314004202",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632468",
+  "name": "Kushal Hospital",
+  "kind": "hospital",
+  "lat": 16.6721504,
+  "lng": 74.2142841,
+  "road_node": "n9885807124",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632471",
+  "name": "Life Line Hospital",
+  "kind": "hospital",
+  "lat": 16.6862214,
+  "lng": 74.2300682,
+  "road_node": "n7828407367",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632474",
+  "name": "Apoorva Hospital",
+  "kind": "hospital",
+  "lat": 16.7079928,
+  "lng": 74.2639308,
+  "road_node": "n1612022548",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632475",
+  "name": "Morale Hospital",
+  "kind": "hospital",
+  "lat": 16.6757169,
+  "lng": 74.2400565,
+  "road_node": "n1279469778",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632478",
+  "name": "Sai Nursing Home",
+  "kind": "hospital",
+  "lat": 16.6896406,
+  "lng": 74.2312435,
+  "road_node": "n1293265494",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632480",
+  "name": "Annapurna Hospital",
+  "kind": "hospital",
+  "lat": 16.6841003,
+  "lng": 74.2460617,
+  "road_node": "n1279469775",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632481",
+  "name": "Nadkarni Hospital",
+  "kind": "hospital",
+  "lat": 16.6935746,
+  "lng": 74.2450749,
+  "road_node": "n674647767",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632482",
+  "name": "Hira Nursing Home",
+  "kind": "hospital",
+  "lat": 16.7081851,
+  "lng": 74.2648518,
+  "road_node": "n1612022548",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632484",
+  "name": "Krishna Hospital",
+  "kind": "hospital",
+  "lat": 16.679589,
+  "lng": 74.2164942,
+  "road_node": "n4314004202",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632485",
+  "name": "Morya Nursing Home",
+  "kind": "hospital",
+  "lat": 16.669154,
+  "lng": 74.203512,
+  "road_node": "n7826233499",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632486",
+  "name": "Super Hospital",
+  "kind": "hospital",
+  "lat": 16.6779619,
+  "lng": 74.1905289,
+  "road_node": "n4258444746",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632489",
+  "name": "Arya Hospital",
+  "kind": "hospital",
+  "lat": 16.6942979,
+  "lng": 74.2311663,
+  "road_node": "n4260315691",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632490",
+  "name": "Pravara Hospital",
+  "kind": "hospital",
+  "lat": 16.68848,
+  "lng": 74.218765,
+  "road_node": "n1293268364",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632491",
+  "name": "Shubhankaroti Hospital",
+  "kind": "hospital",
+  "lat": 16.688232,
+  "lng": 74.2228476,
+  "road_node": "n1282553514",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632492",
+  "name": "Dr. Walke Hospital",
+  "kind": "hospital",
+  "lat": 16.6881654,
+  "lng": 74.2167326,
+  "road_node": "n1279982572",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632495",
+  "name": "Diamond Hospital",
+  "kind": "hospital",
+  "lat": 16.71111,
+  "lng": 74.230597,
+  "road_node": "n4316674638",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632496",
+  "name": "Mangalmurti Hospital",
+  "kind": "hospital",
+  "lat": 16.689219,
+  "lng": 74.23943,
+  "road_node": "n1287621442",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632497",
+  "name": "Shree Nursing Home",
+  "kind": "hospital",
+  "lat": 16.6934803,
+  "lng": 74.1918161,
+  "road_node": "n7829428456",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632498",
+  "name": "J K Multispeciality Hospital",
+  "kind": "hospital",
+  "lat": 16.705778,
+  "lng": 74.242327,
+  "road_node": "n1619256515",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632499",
+  "name": "Karanjakar Hospital",
+  "kind": "hospital",
+  "lat": 16.6801,
+  "lng": 74.216111,
+  "road_node": "n4314004202",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632500",
+  "name": "Swastik Hospital",
+  "kind": "hospital",
+  "lat": 16.702539,
+  "lng": 74.249569,
+  "road_node": "n1612022818",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632504",
+  "name": "Vijaya Nursing Home",
+  "kind": "hospital",
+  "lat": 16.6858537,
+  "lng": 74.2417598,
+  "road_node": "n4247987684",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632508",
+  "name": "Dige Hospital",
+  "kind": "hospital",
+  "lat": 16.6990519,
+  "lng": 74.2514731,
+  "road_node": "n1612034250",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632509",
+  "name": "Gholape Hospital",
+  "kind": "hospital",
+  "lat": 16.694878,
+  "lng": 74.217404,
+  "road_node": "n1279982596",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632512",
+  "name": "Tejomay Hospital",
+  "kind": "hospital",
+  "lat": 16.6754279,
+  "lng": 74.2152491,
+  "road_node": "n4314004202",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632515",
+  "name": "Siddhant Hospital & Research Centre",
+  "kind": "hospital",
+  "lat": 16.6751821,
+  "lng": 74.235244,
+  "road_node": "n4531473694",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632519",
+  "name": "Sushrisha Hospital",
+  "kind": "hospital",
+  "lat": 16.6877413,
+  "lng": 74.246938,
+  "road_node": "n4247987688",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632520",
+  "name": "Matru Bal Hospital",
+  "kind": "hospital",
+  "lat": 16.6936903,
+  "lng": 74.2201014,
+  "road_node": "n1282553437",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn7643632521",
+  "name": "Lotus Hospital",
+  "kind": "hospital",
+  "lat": 16.6888559,
+  "lng": 74.2354337,
+  "road_node": "n4314156757",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn8247104061",
+  "name": "Shree Hospital and Research Institutes (SHRI)",
+  "kind": "hospital",
+  "lat": 16.6975178,
+  "lng": 74.2422648,
+  "road_node": "n12400844297",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn9866666063",
+  "name": "Sadguru Multispeciality Hospital, Kolhapur",
+  "kind": "hospital",
+  "lat": 16.6949178,
+  "lng": 74.2173326,
+  "road_node": "n3047643330",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn10281749454",
+  "name": "Government Hospital",
+  "kind": "hospital",
+  "lat": 16.2130527,
+  "lng": 74.430594,
+  "road_node": "n6361060163",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn11722124075",
+  "name": "Yashoda Hospital",
+  "kind": "hospital",
+  "lat": 16.874725,
+  "lng": 74.0417266,
+  "road_node": "n1762335152",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn11722159271",
+  "name": "Bambavade Police Station",
+  "kind": "police",
+  "lat": 16.8711494,
+  "lng": 74.0416236,
+  "road_node": "n245638774",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn12353496070",
+  "name": "ZP Hospital",
+  "kind": "hospital",
+  "lat": 16.6657747,
+  "lng": 74.3977564,
+  "road_node": "n7049982368",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn13807994100",
+  "name": "Healing Hands Clinic - Kolhapur",
+  "kind": "hospital",
+  "lat": 16.7084539,
+  "lng": 74.2439735,
+  "road_node": "n1279512490",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bn13879563924",
+  "name": "Nil Kamal Hospital",
+  "kind": "hospital",
+  "lat": 16.8311595,
+  "lng": 74.3213684,
+  "road_node": "n7044449291",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw159943125",
+  "name": "Savitri Bai Phule Hospital",
+  "kind": "hospital",
+  "lat": 16.6948428,
+  "lng": 74.2311026,
+  "road_node": "n4260315691",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw159943695",
+  "name": "Savitribai Phule Hospital",
+  "kind": "hospital",
+  "lat": 16.6943895,
+  "lng": 74.2317121,
+  "road_node": "n4260315691",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw407195172",
+  "name": "Shivaji Nagar Police Station",
+  "kind": "police",
+  "lat": 16.685505,
+  "lng": 74.4586131,
+  "road_node": "n4092330585",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw425516032",
+  "name": "Rajarshi Chhatrapati Shahu Maharaj Government Medical college and CPR hospital",
+  "kind": "hospital",
+  "lat": 16.6700385,
+  "lng": 74.234857,
+  "road_node": "n4531322537",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw430028550",
+  "name": "CPR Hospital",
+  "kind": "hospital",
+  "lat": 16.7018519,
+  "lng": 74.2265878,
+  "road_node": "n4315675983",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw439644623",
+  "name": "Rajarampuri Police Station",
+  "kind": "police",
+  "lat": 16.6904109,
+  "lng": 74.2471016,
+  "road_node": "n7822065905",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw456572816",
+  "name": "Gadhinglaj Police Station",
+  "kind": "police",
+  "lat": 16.2234932,
+  "lng": 74.3478305,
+  "road_node": "n3156058693",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw460733297",
+  "name": "Hospital",
+  "kind": "hospital",
+  "lat": 16.1141831,
+  "lng": 74.2106342,
+  "road_node": "n2519170412",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw460741218",
+  "name": "Ajara Police Station",
+  "kind": "police",
+  "lat": 16.1203413,
+  "lng": 74.2097223,
+  "road_node": "n4563227179",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw462554780",
+  "name": "Highway Police Station",
+  "kind": "police",
+  "lat": 16.6607541,
+  "lng": 74.2676455,
+  "road_node": "n4566312130",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw472463084",
+  "name": "Laxmipuri Police Station",
+  "kind": "police",
+  "lat": 16.6987253,
+  "lng": 74.2276315,
+  "road_node": "n277251002",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw493174962",
+  "name": "Galaxy Hospitals Ltd",
+  "kind": "hospital",
+  "lat": 16.8677288,
+  "lng": 74.1999913,
+  "road_node": "n4556595938",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw835654970",
+  "name": "Jivanjyoti",
+  "kind": "hospital",
+  "lat": 16.2379984,
+  "lng": 74.2616995,
+  "road_node": "n11338254669",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw835657039",
+  "name": "Anusaya Clinic",
+  "kind": "hospital",
+  "lat": 16.2367378,
+  "lng": 74.261681,
+  "road_node": "n1259542033",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw1078344240",
+  "name": "Dr. D. Y. Patil Hospital",
+  "kind": "hospital",
+  "lat": 16.7150046,
+  "lng": 74.2564496,
+  "road_node": "n4255835800",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw1334200528",
+  "name": "ZP hospital",
+  "kind": "hospital",
+  "lat": 16.5772115,
+  "lng": 74.3143858,
+  "road_node": "n3175136493",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw1334211047",
+  "name": "Kagal Police Station",
+  "kind": "police",
+  "lat": 16.575969,
+  "lng": 74.3145747,
+  "road_node": "n3175128407",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw1335319227",
+  "name": "ZP hospital",
+  "kind": "hospital",
+  "lat": 16.6657759,
+  "lng": 74.3977239,
+  "road_node": "n7049982368",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw1369214090",
+  "name": "Helth center",
+  "kind": "hospital",
+  "lat": 16.6817257,
+  "lng": 74.2520474,
+  "road_node": "n4566790688",
+  "source": "OpenStreetMap"
+ },
+ {
+  "id": "Bw1421788558",
+  "name": "kodoli police station",
+  "kind": "police",
+  "lat": 16.8635069,
+  "lng": 74.1856044,
+  "road_node": "n675030517",
+  "source": "OpenStreetMap"
+ }
+]

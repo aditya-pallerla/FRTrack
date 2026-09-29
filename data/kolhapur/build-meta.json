@@ -1,0 +1,21 @@
+{
+ "built_at": "2026-09-29T07:19:42.830Z",
+ "study_area": "Kolhapur District, Maharashtra",
+ "rules": {
+  "settlements": "All cities/towns, plus villages/suburbs within 3 km of an OSM river",
+  "population": "OSM population tag only; otherwise unknown (null)",
+  "terrain": "HAND proxy: settlement DEM elevation minus nearest river-sample elevation (500 m samples); ~90 m DEM, noisy on small differences",
+  "flood_prone_roads": "Fords; bridges within 300 m of a river; road mid-points within 300 m of a river and ≤4 m above it",
+  "road_network": "OSM motorway…unclassified (+links), largest connected component only",
+  "units": "SYNTHETIC demo units (not a real fleet), placed at OSM facilities serving the most settlements within 15 km; rescue teams/boats at police stations (no fire stations are tagged in OSM for this district)",
+  "rain_cells": "0.1° grid (ERA5-Land resolution)"
+ },
+ "counts": {
+  "settlements": 587,
+  "segments": 8670,
+  "bases": 267,
+  "units": 22,
+  "gauges": 0,
+  "rain_cells": 68
+ }
+}

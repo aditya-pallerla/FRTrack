@@ -1,0 +1,266 @@
+[
+ {
+  "id": "U-rescue_team-1",
+  "name": "Rescue Team KOP-1",
+  "type": "rescue_team",
+  "base_id": "Bw460741218",
+  "road_node": "n4563227179",
+  "status": "available",
+  "capabilities": [
+   "rescue"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-rescue_team-2",
+  "name": "Rescue Team KOP-2",
+  "type": "rescue_team",
+  "base_id": "Bn11722159271",
+  "road_node": "n245638774",
+  "status": "available",
+  "capabilities": [
+   "rescue"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-rescue_team-3",
+  "name": "Rescue Team KOP-3",
+  "type": "rescue_team",
+  "base_id": "Bn1375555224",
+  "road_node": "n277251701",
+  "status": "available",
+  "capabilities": [
+   "rescue"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-rescue_team-4",
+  "name": "Rescue Team KOP-4",
+  "type": "rescue_team",
+  "base_id": "Bw462554780",
+  "road_node": "n4566312130",
+  "status": "available",
+  "capabilities": [
+   "rescue"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-rescue_team-5",
+  "name": "Rescue Team KOP-5",
+  "type": "rescue_team",
+  "base_id": "Bw472463084",
+  "road_node": "n277251002",
+  "status": "available",
+  "capabilities": [
+   "rescue"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-rescue_team-6",
+  "name": "Rescue Team KOP-6",
+  "type": "rescue_team",
+  "base_id": "Bw439644623",
+  "road_node": "n7822065905",
+  "status": "available",
+  "capabilities": [
+   "rescue"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-rescue_boat-1",
+  "name": "Rescue Boat KOP-1",
+  "type": "rescue_boat",
+  "base_id": "Bw460741218",
+  "road_node": "n4563227179",
+  "status": "available",
+  "capabilities": [
+   "water_rescue"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-rescue_boat-2",
+  "name": "Rescue Boat KOP-2",
+  "type": "rescue_boat",
+  "base_id": "Bn11722159271",
+  "road_node": "n245638774",
+  "status": "available",
+  "capabilities": [
+   "water_rescue"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-rescue_boat-3",
+  "name": "Rescue Boat KOP-3",
+  "type": "rescue_boat",
+  "base_id": "Bn1375555224",
+  "road_node": "n277251701",
+  "status": "available",
+  "capabilities": [
+   "water_rescue"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-rescue_boat-4",
+  "name": "Rescue Boat KOP-4",
+  "type": "rescue_boat",
+  "base_id": "Bw462554780",
+  "road_node": "n4566312130",
+  "status": "available",
+  "capabilities": [
+   "water_rescue"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-ambulance-1",
+  "name": "Ambulance KOP-1",
+  "type": "ambulance",
+  "base_id": "Bn7226642261",
+  "road_node": "n7829675434",
+  "status": "available",
+  "capabilities": [
+   "medical"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-ambulance-2",
+  "name": "Ambulance KOP-2",
+  "type": "ambulance",
+  "base_id": "Bn7643338083",
+  "road_node": "n3068731008",
+  "status": "available",
+  "capabilities": [
+   "medical"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-ambulance-3",
+  "name": "Ambulance KOP-3",
+  "type": "ambulance",
+  "base_id": "Bn7086499124",
+  "road_node": "n11812276614",
+  "status": "available",
+  "capabilities": [
+   "medical"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-ambulance-4",
+  "name": "Ambulance KOP-4",
+  "type": "ambulance",
+  "base_id": "Bn7226642354",
+  "road_node": "n6751969381",
+  "status": "available",
+  "capabilities": [
+   "medical"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-ambulance-5",
+  "name": "Ambulance KOP-5",
+  "type": "ambulance",
+  "base_id": "Bn7226642314",
+  "road_node": "n7825314441",
+  "status": "available",
+  "capabilities": [
+   "medical"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-ambulance-6",
+  "name": "Ambulance KOP-6",
+  "type": "ambulance",
+  "base_id": "Bn7226642240",
+  "road_node": "n7031910854",
+  "status": "available",
+  "capabilities": [
+   "medical"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-police-1",
+  "name": "Police Mobile KOP-1",
+  "type": "police",
+  "base_id": "Bw460741218",
+  "road_node": "n4563227179",
+  "status": "available",
+  "capabilities": [
+   "evacuation"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-police-2",
+  "name": "Police Mobile KOP-2",
+  "type": "police",
+  "base_id": "Bn11722159271",
+  "road_node": "n245638774",
+  "status": "available",
+  "capabilities": [
+   "evacuation"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-police-3",
+  "name": "Police Mobile KOP-3",
+  "type": "police",
+  "base_id": "Bn1375555224",
+  "road_node": "n277251701",
+  "status": "available",
+  "capabilities": [
+   "evacuation"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-police-4",
+  "name": "Police Mobile KOP-4",
+  "type": "police",
+  "base_id": "Bw462554780",
+  "road_node": "n4566312130",
+  "status": "available",
+  "capabilities": [
+   "evacuation"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-police-5",
+  "name": "Police Mobile KOP-5",
+  "type": "police",
+  "base_id": "Bw472463084",
+  "road_node": "n277251002",
+  "status": "available",
+  "capabilities": [
+   "evacuation"
+  ],
+  "synthetic": true
+ },
+ {
+  "id": "U-police-6",
+  "name": "Police Mobile KOP-6",
+  "type": "police",
+  "base_id": "Bw439644623",
+  "road_node": "n7822065905",
+  "status": "available",
+  "capabilities": [
+   "evacuation"
+  ],
+  "synthetic": true
+ }
+]
