@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Kolhapur floods — August 2019 (replay)",
+    "labelling": "Rainfall is historical ERA5 reanalysis (0.25°) with its ORIGINAL timestamps. Every ground report and road event in this file is a SYNTHETIC SCENARIO input written by the team to exercise the system; none is a real record unless it has origin \"documented\" and a citation.",
+    "notes": [
+      "Event chosen from the data: ERA5 shows a sustained build-up to 165–207 mm / 24 h over the western (Ghats) cells on 5 Aug 2019, versus a smoothed peak for July 2021.",
+      "Places and roads are referenced by name and resolved against OpenStreetMap at load time; no coordinates are invented.",
+      "Reports are extracted with the deterministic keyword extractor so every replay run is identical.",
+      "No river-level observations are included until a cited timeseries is added (the UI shows this as a data gap)."
+    ]
+  },
+  "anchor": "Kolhapur",
+  "start": "2019-08-03T06:00:00+05:30",
+  "end": "2019-08-10T06:00:00+05:30",
+  "step_min": 120,
+  "reports": [
+    { "at": "2019-08-04T15:40:00+05:30", "place": "Chikhali", "offset_m": [150, -80], "reporter": "citizen-01", "location_confidence": 0.85,
+      "text": "River water is rising near the temple, water on the road to the village." },
+    { "at": "2019-08-04T17:20:00+05:30", "place": "Chikhali", "offset_m": [-120, 60], "reporter": "citizen-02", "location_confidence": 0.9,
+      "text": "पाणी घरात शिरलं आहे, शाळेजवळचा मुख्य रस्ता बंद आहे." },
+    { "at": "2019-08-04T19:05:00+05:30", "place": "Chikhali", "offset_m": [60, 140], "reporter": "citizen-03", "location_confidence": 0.8,
+      "text": "Water has entered houses near the school, vehicles cannot pass." },
+    { "at": "2019-08-05T03:30:00+05:30", "place": "Thergaon", "offset_m": [80, 40], "reporter": "citizen-11", "location_confidence": 0.8,
+      "text": "The bridge is under water and the river is rising fast, water has entered houses." },
+    { "at": "2019-08-05T04:40:00+05:30", "place": "Thergaon", "offset_m": [-150, 90], "reporter": "citizen-12", "location_confidence": 0.8,
+      "text": "पूल पाण्याखाली गेला आहे, घरात पाणी शिरलं. लोक अडकले आहेत." },
+    { "at": "2019-08-05T05:30:00+05:30", "place": "Thergaon", "offset_m": [40, -120], "reporter": "citizen-13", "location_confidence": 0.75,
+      "text": "Families with children are stuck on the first floor, please send a boat." },
+    { "at": "2019-08-05T07:50:00+05:30", "place": "Ambewadi", "offset_m": [0, 0], "reporter": "citizen-04", "location_confidence": 0.8,
+      "text": "12 people trapped on the roof, elderly and children, please send a boat." },
+    { "at": "2019-08-05T08:45:00+05:30", "place": "Ambewadi", "offset_m": [200, 100], "reporter": "citizen-05", "location_confidence": 0.75,
+      "text": "लोक छतावर अडकले आहेत, बोट पाठवा. पाणी वाढत आहे." },
+    { "at": "2019-08-05T19:30:00+05:30", "place": "Shiroli", "offset_m": [0, 0], "reporter": "citizen-06", "location_confidence": 0.85,
+      "text": "Highway road is flooded near the bridge, trucks cannot pass." },
+    { "at": "2019-08-05T21:10:00+05:30", "place": "Shiroli", "offset_m": [250, -150], "reporter": "citizen-07", "location_confidence": 0.8,
+      "text": "Bridge is under water, traffic stopped on the highway." },
+    { "at": "2019-08-06T10:00:00+05:30", "place": "Kolhapur", "offset_m": [600, 400], "reporter": "citizen-08", "location_confidence": 0.7,
+      "text": "Road is open here, no flooding in our lane." },
+    { "at": "2019-08-08T13:00:00+05:30", "place": "Chikhali", "offset_m": [100, 0], "reporter": "citizen-09", "location_confidence": 0.85,
+      "text": "Water has receded from the main road, road is open now." },
+    { "at": "2019-08-08T14:30:00+05:30", "place": "Chikhali", "offset_m": [-80, -60], "reporter": "citizen-10", "location_confidence": 0.85,
+      "text": "पाणी ओसरलं, रस्ता सुरू झाला आहे." }
+  ],
+  "road_events": [
+    { "at": "2019-08-05T05:00:00+05:30", "osm_way": 699868986, "action": "close",
+      "reason": "Bridge to Thergaon submerged (scenario)", "origin": "scenario" },
+    { "at": "2019-08-05T05:00:00+05:30", "osm_way": 699868962, "action": "close",
+      "reason": "Approach road to Thergaon under water (scenario)", "origin": "scenario" },
+    { "at": "2019-08-08T12:00:00+05:30", "osm_way": 699868986, "action": "reopen",
+      "reason": "Bridge to Thergaon passable again (scenario)", "origin": "scenario" },
+    { "at": "2019-08-08T12:00:00+05:30", "osm_way": 699868962, "action": "reopen",
+      "reason": "Approach road to Thergaon open (scenario)", "origin": "scenario" },
+    { "at": "2019-08-05T10:00:00+05:30", "road": ".", "near": "Ambewadi", "bridge": true, "action": "close",
+      "reason": "Bridge submerged (scenario)", "origin": "scenario" },
+    { "at": "2019-08-06T00:00:00+05:30", "road": "NH ?48", "near": "Shiroli", "bridge": true, "action": "close",
+      "reason": "Highway closed at river crossing (scenario)", "origin": "scenario" },
+    { "at": "2019-08-09T08:00:00+05:30", "road": ".", "near": "Ambewadi", "bridge": true, "action": "reopen",
+      "reason": "Water below bridge deck (scenario)", "origin": "scenario" },
+    { "at": "2019-08-09T20:00:00+05:30", "road": "NH ?48", "near": "Shiroli", "bridge": true, "action": "reopen",
+      "reason": "Highway reopened (scenario)", "origin": "scenario" }
+  ],
+  "water_levels": []
+}
