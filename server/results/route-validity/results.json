@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-09-29T07:45:49.720Z",
+  "network": {
+    "source": "OpenStreetMap (ODbL), Kolhapur District, largest connected component",
+    "segments": 8670,
+    "nodes": 6824
+  },
+  "method": "Deterministic seeds (mulberry32). Each route is independently verified: existing segments only, no closed segment, continuous geometry, ends at the settlement road node. Every CUT OFF verdict is checked with an independent reachability search.",
+  "limitations": [
+    "Validates the local graph router on the mapped network; OSM may miss village roads or contain outdated segments.",
+    "Travel times use prototype free-flow speeds per road class, not observed traffic or flood-reduced speeds.",
+    "Closures are simulated; they do not reproduce the real 2019/2021 closure pattern."
+  ],
+  "results": [
+    {
+      "mode": "random disruption (3% of segments)",
+      "seeds": 50,
+      "routes_tested": 1000,
+      "valid_routes": 976,
+      "invalid_routes": 0,
+      "baseline_routes_invalidated_by_closures": 822,
+      "successful_reroutes": 798,
+      "unaffected": 178,
+      "unreachable_correctly_detected": 24,
+      "unreachable_wrongly_reported": 0,
+      "route_validity_pct": 100,
+      "avg_detour_pct": 16.1,
+      "max_detour_pct": 118.8
+    },
+    {
+      "mode": "flood-prone roads (50% of flood-prone segments)",
+      "seeds": 50,
+      "routes_tested": 1000,
+      "valid_routes": 880,
+      "invalid_routes": 0,
+      "baseline_routes_invalidated_by_closures": 832,
+      "successful_reroutes": 712,
+      "unaffected": 168,
+      "unreachable_correctly_detected": 120,
+      "unreachable_wrongly_reported": 0,
+      "route_validity_pct": 100,
+      "avg_detour_pct": 55.4,
+      "max_detour_pct": 1220.6
+    },
+    {
+      "mode": "replay scenario closures",
+      "seeds": 50,
+      "routes_tested": 1000,
+      "valid_routes": 999,
+      "invalid_routes": 0,
+      "baseline_routes_invalidated_by_closures": 183,
+      "successful_reroutes": 182,
+      "unaffected": 817,
+      "unreachable_correctly_detected": 1,
+      "unreachable_wrongly_reported": 0,
+      "route_validity_pct": 100,
+      "avg_detour_pct": 8.9,
+      "max_detour_pct": 112.2
+    }
+  ],
+  "failures": []
+}

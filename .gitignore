@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+server/data/pgdata/
+server/data/dev-session-secret
+scripts/scratch/
+# Raw API downloads are large; the built dataset in data/kolhapur is what the app uses.
+data/raw/

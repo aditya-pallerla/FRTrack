@@ -1,0 +1,133 @@
+{
+  "generated_at": "2026-09-29T07:55:27.639Z",
+  "part_a_specification_scenarios": [
+    {
+      "id": 1,
+      "name": "Heavy rainfall, no observed impact",
+      "expected": "WARNING + verification requested (no SEVERE)",
+      "actual": "WARNING + verification requested (no SEVERE)",
+      "pass": true
+    },
+    {
+      "id": 2,
+      "name": "Moderate rainfall + strong terrain susceptibility",
+      "expected": "WATCH",
+      "actual": "WATCH",
+      "pass": true
+    },
+    {
+      "id": 3,
+      "name": "Heavy rainfall + corroborating ground reports",
+      "expected": "SEVERE",
+      "actual": "SEVERE",
+      "pass": true
+    },
+    {
+      "id": 4,
+      "name": "Ground report only",
+      "expected": "WATCH + verification requested",
+      "actual": "WATCH + verification requested",
+      "pass": true
+    },
+    {
+      "id": 5,
+      "name": "Contradictory ground reports",
+      "expected": "WATCH + verification requested",
+      "actual": "WATCH + verification requested",
+      "pass": true
+    },
+    {
+      "id": 6,
+      "name": "Missing rainfall observation",
+      "expected": "NONE + data gap",
+      "actual": "NONE + data gap",
+      "pass": true
+    },
+    {
+      "id": 7,
+      "name": "Stale rainfall observation",
+      "expected": "NONE + DATA STALE",
+      "actual": "NONE + DATA STALE",
+      "pass": true
+    },
+    {
+      "id": 8,
+      "name": "Flood conditions followed by improvement",
+      "expected": "WARNING → WARNING → WARNING → WARNING → NONE",
+      "actual": "WARNING → WARNING → WARNING → WARNING → NONE",
+      "pass": true
+    }
+  ],
+  "part_b_historical": {
+    "dataset": "Open-Meteo ERA5 (0.25°) hourly rainfall, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023 (June–September)",
+    "source": "Open-Meteo Historical Weather API (ERA5 reanalysis, CC BY 4.0)",
+    "period": "2010-06-05 → 2023-09-30",
+    "label_type": "weak event-level labels (major documented floods only; approximate dates)",
+    "cells": [
+      "c16.45_74.15",
+      "c16.45_74.25",
+      "c16.55_74.15",
+      "c16.55_74.25",
+      "c16.35_74.15",
+      "c16.45_74.05",
+      "c16.35_74.25",
+      "c16.55_74.05"
+    ],
+    "method": "Engine run hourly on environmental evidence only (no historical ground reports or river levels) for the most flood-susceptible real settlement in each evaluated rain cell; a day is an ALERT day if any evaluation reached WARNING or SEVERE.",
+    "limitations": [
+      "Labels are weak: only major documented floods are labelled, with approximate dates; smaller real floods count as \"no flood\", inflating false alerts.",
+      "ERA5 (~28 km grid) smooths and under-estimates extreme local rainfall over the Western Ghats.",
+      "No historical ground reports or river levels are used, so the full evidence fusion is not evaluated here.",
+      "Only 8 rain cells near the district centre are evaluated.",
+      "Thresholds are prototype values; these results do NOT represent real-world deployment accuracy."
+    ],
+    "day_level": {
+      "tp": 3,
+      "fp": 7,
+      "tn": 1630,
+      "fn": 12,
+      "precision": 0.3,
+      "recall": 0.2,
+      "false_alert_rate_days": 0.7,
+      "missed_event_day_rate": 0.8
+    },
+    "event_level": {
+      "labelled_events_in_period": 2,
+      "detected": 1,
+      "missed": 1,
+      "alert_episodes": 4,
+      "false_alert_episodes": 3,
+      "false_alert_rate_episodes": 0.75,
+      "events": [
+        {
+          "id": "kop-2019-08",
+          "name": "Kolhapur floods, August 2019",
+          "detected": true,
+          "first_alert": "2019-08-04T15:30:00.000Z",
+          "lead_time_h_vs_labelled_start": -21
+        },
+        {
+          "id": "kop-2021-07",
+          "name": "Kolhapur floods, July 2021",
+          "detected": false,
+          "first_alert": null,
+          "lead_time_h_vs_labelled_start": null
+        }
+      ]
+    },
+    "false_alert_episodes": [
+      {
+        "start": "2014-07-31",
+        "end": "2014-08-01"
+      },
+      {
+        "start": "2020-06-30",
+        "end": "2020-07-01"
+      },
+      {
+        "start": "2020-08-04",
+        "end": "2020-08-06"
+      }
+    ]
+  }
+}
